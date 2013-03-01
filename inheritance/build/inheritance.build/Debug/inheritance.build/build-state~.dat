@@ -1,0 +1,187 @@
+Tinheritance
+v7
+r0
+t348566358.239540
+cCheck dependencies
+cProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch.pth inheritance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/main.o /Users/jyothsna/Desktop/inheritance/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inherit.o /Users/jyothsna/Desktop/inheritance/Source/inherit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/add.o /Users/jyothsna/Desktop/inheritance/Source/add.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/sub.o /Users/jyothsna/Desktop/inheritance/Source/sub.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jyothsna/Desktop/inheritance/build/Debug/inheritance normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CAA740400000000000C7160
+t1286239236
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Users/jyothsna/Desktop/inheritance/Source/add.h
+c000000004F1538D100000000000000F6
+t1326790865
+s246
+i<Foundation/Foundation.h>
+i"inherit.h"
+
+N/Users/jyothsna/Desktop/inheritance/Source/add.m
+c000000004F1538D100000000000000EA
+t1326790865
+s234
+i"add.h"
+
+N/Users/jyothsna/Desktop/inheritance/Source/inherit.h
+c000000004F1538D0000000000000010E
+t1326790864
+s270
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/inheritance/Source/inherit.m
+c000000004F1538D10000000000000117
+t1326790865
+s279
+i"inherit.h"
+
+N/Users/jyothsna/Desktop/inheritance/Source/main.m
+c000000004F1538D100000000000001A3
+t1326790865
+s419
+i<Foundation/Foundation.h>
+i"inherit.h"
+i"add.h"
+i"sub.h"
+
+N/Users/jyothsna/Desktop/inheritance/Source/sub.h
+c000000004F1538D200000000000000E8
+t1326790866
+s232
+i<Foundation/Foundation.h>
+i"inherit.h"
+
+N/Users/jyothsna/Desktop/inheritance/Source/sub.m
+c000000004F1539CD00000000000000EA
+t1326791117
+s234
+i"sub.h"
+
+N/Users/jyothsna/Desktop/inheritance/build/Debug/inheritance
+t1326873558
+s11056
+
+N/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/add.o
+t1326873558
+s4148
+
+N/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inherit.o
+t1326873557
+s4544
+
+N/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inheritance.LinkFileList
+c000000004F167BD400000000000001C5
+t1326873556
+s453
+
+N/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/main.o
+t1326873557
+s4024
+
+N/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/sub.o
+t1326873558
+s4148
+
+N/Users/jyothsna/Desktop/inheritance/inheritance-Prefix.pch
+c000000004F152C3D000000000000007D
+t1326787645
+s125
+
+N/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch.pth
+t1326873556
+s58748
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348566356#348566356#0(0"0(0#1#0"8614222304#0"0#
+
+CCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/add.o /Users/jyothsna/Desktop/inheritance/Source/add.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348566357.342704
+e348566358.089945
+r1
+xCompileC
+xbuild/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/add.o
+x/Users/jyothsna/Desktop/inheritance/Source/add.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@56"Compile /Users/jyothsna/Desktop/inheritance/Source/add.m348566357#348566358#0(0"0(0#0#48"/Users/jyothsna/Desktop/inheritance/Source/add.m8619589888#1547"    cd /Users/jyothsna/Desktop/inheritance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-generated-files.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-own-target-headers.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-project-headers.hmap -F/Users/jyothsna/Desktop/inheritance/build/Debug -I/Users/jyothsna/Desktop/inheritance/build/Debug/include -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch -c /Users/jyothsna/Desktop/inheritance/Source/add.m -o /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/add.o0#
+
+CCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inherit.o /Users/jyothsna/Desktop/inheritance/Source/inherit.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348566356.661883
+e348566357.346966
+r1
+xCompileC
+xbuild/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inherit.o
+x/Users/jyothsna/Desktop/inheritance/Source/inherit.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@60"Compile /Users/jyothsna/Desktop/inheritance/Source/inherit.m348566356#348566357#0(0"0(0#0#52"/Users/jyothsna/Desktop/inheritance/Source/inherit.m8614712928#1555"    cd /Users/jyothsna/Desktop/inheritance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-generated-files.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-own-target-headers.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-project-headers.hmap -F/Users/jyothsna/Desktop/inheritance/build/Debug -I/Users/jyothsna/Desktop/inheritance/build/Debug/include -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch -c /Users/jyothsna/Desktop/inheritance/Source/inherit.m -o /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inherit.o0#
+
+CCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/main.o /Users/jyothsna/Desktop/inheritance/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348566356.659869
+e348566357.342610
+r1
+xCompileC
+xbuild/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/main.o
+x/Users/jyothsna/Desktop/inheritance/Source/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@57"Compile /Users/jyothsna/Desktop/inheritance/Source/main.m348566356#348566357#0(0"0(0#0#49"/Users/jyothsna/Desktop/inheritance/Source/main.m8615322688#1549"    cd /Users/jyothsna/Desktop/inheritance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-generated-files.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-own-target-headers.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-project-headers.hmap -F/Users/jyothsna/Desktop/inheritance/build/Debug -I/Users/jyothsna/Desktop/inheritance/build/Debug/include -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch -c /Users/jyothsna/Desktop/inheritance/Source/main.m -o /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/sub.o /Users/jyothsna/Desktop/inheritance/Source/sub.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348566357.347059
+e348566358.109118
+r1
+xCompileC
+xbuild/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/sub.o
+x/Users/jyothsna/Desktop/inheritance/Source/sub.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@56"Compile /Users/jyothsna/Desktop/inheritance/Source/sub.m348566357#348566358#0(0"0(0#0#48"/Users/jyothsna/Desktop/inheritance/Source/sub.m8618859904#1547"    cd /Users/jyothsna/Desktop/inheritance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-generated-files.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-own-target-headers.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-project-headers.hmap -F/Users/jyothsna/Desktop/inheritance/build/Debug -I/Users/jyothsna/Desktop/inheritance/build/Debug/include -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch -c /Users/jyothsna/Desktop/inheritance/Source/sub.m -o /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/sub.o0#
+
+CLd /Users/jyothsna/Desktop/inheritance/build/Debug/inheritance normal x86_64
+s348566358.109214
+e348566358.239482
+r1
+xLd
+x/Users/jyothsna/Desktop/inheritance/build/Debug/inheritance
+xnormal
+xx86_64
+lSLF07#2@64"Link /Users/jyothsna/Desktop/inheritance/build/Debug/inheritance348566358#348566358#0(0"0(0#0#0"8612877056#519"    cd /Users/jyothsna/Desktop/inheritance    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jyothsna/Desktop/inheritance/build/Debug -F/Users/jyothsna/Desktop/inheritance/build/Debug -filelist /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/Objects-normal/x86_64/inheritance.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/jyothsna/Desktop/inheritance/build/Debug/inheritance0#
+
+CProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch.pth inheritance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s348566356.514919
+e348566356.659768
+r1
+xProcessPCH
+x/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch.pth
+xinheritance-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@33"Precompile inheritance-Prefix.pch348566356#348566356#0(0"0(0#0#58"/Users/jyothsna/Desktop/inheritance/inheritance-Prefix.pch8617507520#1447"    cd /Users/jyothsna/Desktop/inheritance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-generated-files.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-own-target-headers.hmap -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/inheritance-project-headers.hmap -F/Users/jyothsna/Desktop/inheritance/build/Debug -I/Users/jyothsna/Desktop/inheritance/build/Debug/include -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/inheritance/build/inheritance.build/Debug/inheritance.build/DerivedSources -c /Users/jyothsna/Desktop/inheritance/inheritance-Prefix.pch -o /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/inheritance-Prefix-cmnfpyewofwbgvfqefwbjzdsrihp/inheritance-Prefix.pch.pth0#
+

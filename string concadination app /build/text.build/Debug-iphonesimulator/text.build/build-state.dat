@@ -1,0 +1,626 @@
+Ttext
+v7
+r0
+t349935888.316905
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/Info.plist" text-Info.plist
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/string concadination app /MainWindow.xib"
+cCompileXIB "/Users/sandeep/Desktop/sandeeprdy/string concadination app /textViewController.xib"
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text" normal i386
+cGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text"
+cTouch "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.h
+c000000004E6EEF6500000000000001C9
+t1315893093
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m
+c000000004E6EEF650000000000000A82
+t1315893093
+s2690
+i"textAppDelegate.h"
+i"textViewController.h"
+
+N/Users/sandeep/Desktop/obj/text/Classes/textViewController.h
+c000000004ED0D7310000000000000200
+t1322309425
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/text/Classes/textViewController.m
+c000000004ED0D73100000000000006F0
+t1322309425
+s1776
+i"textViewController.h"
+
+N/Users/sandeep/Desktop/obj/text/MainWindow.xib
+c000000004E6EEF650000000000004E05
+t1315893093
+s19973
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app
+t1322734256
+s238
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app.dSYM
+t1322734256
+s102
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/Info.plist
+t1315894048
+s579
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/MainWindow.nib
+t1315894048
+s1117
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/PkgInfo
+t1315894048
+s8
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text
+t1322734256
+s18092
+
+N/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/textViewController.nib
+t1315894135
+s2090
+
+N/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+t1322734256
+s6288
+
+N/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList
+c000000004ED752AF0000000000000160
+t1322734255
+s352
+
+N/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+t1322734256
+s50780
+
+N/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+t1322734256
+s42892
+
+N/Users/sandeep/Desktop/obj/text/main.m
+c000000004E6EEF650000000000000162
+t1315893093
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/obj/text/textViewController.xib
+c000000004E6EF3740000000000006290
+t1315894132
+s25232
+
+N/Users/sandeep/Desktop/obj/text/text_Prefix.pch
+c000000004E6EEF6500000000000000B1
+t1315893093
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.h
+c000000004E6EEF6500000000000001C9
+t1315893093
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m
+c000000004E6EEF650000000000000A82
+t1315893093
+s2690
+i"textAppDelegate.h"
+i"textViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.h
+c000000004ED0D7310000000000000200
+t1322309425
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m
+c000000004ED0D73100000000000006F0
+t1322309425
+s1776
+i"textViewController.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /MainWindow.xib
+c000000004E6EEF650000000000004E05
+t1315893093
+s19973
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app
+t1328243088
+s238
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app.dSYM
+t1328243088
+s102
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/Info.plist
+t1315894048
+s579
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/MainWindow.nib
+t1315894048
+s1117
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/PkgInfo
+t1315894048
+s8
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text
+t1328243088
+s18260
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/textViewController.nib
+t1315894135
+s2090
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+t1328243088
+s6344
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList
+c000000004F2B618E00000000000001B4
+t1328243086
+s436
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+t1328243088
+s50836
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+t1328243088
+s42948
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m
+c000000004E6EEF650000000000000162
+t1315893093
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /textViewController.xib
+c000000004E6EF3740000000000006290
+t1315894132
+s25232
+
+N/Users/sandeep/Desktop/sandeeprdy/string concadination app /text_Prefix.pch
+c000000004E6EEF6500000000000000B1
+t1315893093
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/Classes/textAppDelegate.h
+c000000004E6EEF6500000000000001C9
+t1315893093
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/Classes/textAppDelegate.m
+c000000004E6EEF650000000000000A82
+t1315893093
+s2690
+i"textAppDelegate.h"
+i"textViewController.h"
+
+N/Users/sandeep/Documents/text/Classes/textViewController.h
+c000000004ED0D7310000000000000200
+t1322309425
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/Classes/textViewController.m
+c000000004ED0D73100000000000006F0
+t1322309425
+s1776
+i"textViewController.h"
+
+N/Users/sandeep/Documents/text/MainWindow.xib
+c000000004E6EEF650000000000004E05
+t1315893093
+s19973
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app
+t1322309426
+s238
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM
+t1322309426
+s102
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist
+t1315894048
+s579
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/MainWindow.nib
+t1315894048
+s1117
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/PkgInfo
+t1315894048
+s8
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+t1322309426
+s18080
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/textViewController.nib
+t1315894135
+s2090
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+t1315894049
+s6284
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList
+c000000004E6EF320000000000000015A
+t1315894048
+s346
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+t1322309426
+s50776
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+t1322309426
+s42888
+
+N/Users/sandeep/Documents/text/main.m
+c000000004E6EEF650000000000000162
+t1315893093
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/textViewController.xib
+c000000004E6EF3740000000000006290
+t1315894132
+s25232
+
+N/Users/sandeep/Documents/text/text_Prefix.pch
+c000000004E6EEF6500000000000000B1
+t1315893093
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch.gch
+t1328243087
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch
+t1315894049
+s15453392
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch.gch
+t1322734256
+s15453392
+
+Ntext-Info.plist
+c000000004E6EEF65000000000000038D
+t1315893093
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349935886#349935886#0(0"0(0#1#0"8602801088#0"0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s349935888.004064
+e349935888.087222
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m349935888#349935888#0(0"0(0#0#66"/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m8607347840#2107"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/string concadination app /main.m" -o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o /Users/sandeep/Desktop/obj/text/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427056.581173
+e344427056.718429
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+x/Users/sandeep/Desktop/obj/text/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Desktop/obj/text/main.m344427056#344427056#0(0"0(0#0#38"/Users/sandeep/Desktop/obj/text/main.m8648807072#1777"    cd /Users/sandeep/Desktop/obj/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch -c /Users/sandeep/Desktop/obj/text/main.m -o /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o /Users/sandeep/Documents/text/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586849.908778
+e337586849.965603
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/text/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/sandeep/Documents/text/main.m337586849#337586849#0(0"0(0#0#36"/Users/sandeep/Documents/text/main.m8613331296#1755"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/main.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s349935888.005290
+e349935888.127423
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m349935888#349935888#0(0"0(0#0#85"/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m8604108320#2137"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textAppDelegate.m" -o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o"0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o /Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427056.582272
+e344427056.751691
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+x/Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m344427056#344427056#0(0"0(0#0#57"/Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m8639733024#1807"    cd /Users/sandeep/Desktop/obj/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch -c /Users/sandeep/Desktop/obj/text/Classes/textAppDelegate.m -o /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o /Users/sandeep/Documents/text/Classes/textAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344002225.965996
+e344002226.130801
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+x/Users/sandeep/Documents/text/Classes/textAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Documents/text/Classes/textAppDelegate.m344002225#344002226#0(0"0(0#0#55"/Users/sandeep/Documents/text/Classes/textAppDelegate.m8611373600#1785"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/Classes/textAppDelegate.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s349935888.087336
+e349935888.174098
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m349935888#349935888#0(0"0(0#0#88"/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m8603333472#2143"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/string concadination app /Classes/textViewController.m" -o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o"0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o /Users/sandeep/Desktop/obj/text/Classes/textViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427056.718745
+e344427056.800107
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+x/Users/sandeep/Desktop/obj/text/Classes/textViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sandeep/Desktop/obj/text/Classes/textViewController.m344427056#344427056#0(0"0(0#0#60"/Users/sandeep/Desktop/obj/text/Classes/textViewController.m8615734240#1813"    cd /Users/sandeep/Desktop/obj/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch -c /Users/sandeep/Desktop/obj/text/Classes/textViewController.m -o /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o /Users/sandeep/Documents/text/Classes/textViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s344002225.967222
+e344002226.146509
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+x/Users/sandeep/Documents/text/Classes/textViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sandeep/Documents/text/Classes/textViewController.m344002225#344002226#0(0"0(0#0#58"/Users/sandeep/Documents/text/Classes/textViewController.m8612258976#1791"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/Classes/textViewController.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o0#
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/string concadination app /MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sandeep/Desktop/sandeeprdy/string concadination app /textViewController.xib"
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/text/MainWindow.xib
+r0
+
+CCompileXIB /Users/sandeep/Desktop/obj/text/textViewController.xib
+r0
+
+CCompileXIB /Users/sandeep/Documents/text/MainWindow.xib
+s337586848.429169
+e337586848.924313
+r1
+xCompileXIB
+x/Users/sandeep/Documents/text/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337586848#337586848#0(0"0(0#0#44"/Users/sandeep/Documents/text/MainWindow.xib8606669344#540"    cd /Users/sandeep/Documents/text    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/MainWindow.nib /Users/sandeep/Documents/text/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/text/textViewController.xib
+s337586935.535360
+e337586935.950799
+r1
+xCompileXIB
+x/Users/sandeep/Documents/text/textViewController.xib
+lSLF07#2@33"CompileXIB textViewController.xib337586935#337586935#0(0"0(0#0#52"/Users/sandeep/Documents/text/textViewController.xib8614780288#556"    cd /Users/sandeep/Documents/text    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/textViewController.nib /Users/sandeep/Documents/text/textViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app.dSYM" "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text"
+s349935888.207536
+e349935888.314230
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app.dSYM
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/text.app.dSYM build/Debug-iphonesimulator/text.app/text349935888#349935888#0(0"0(0#0#101"/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text8601209408#443"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text" -o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app.dSYM /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text
+s344427056.824928
+e344427056.861603
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app.dSYM
+x/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/text.app.dSYM build/Debug-iphonesimulator/text.app/text344427056#344427056#0(0"0(0#0#73"/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text8604982240#353"    cd /Users/sandeep/Desktop/obj/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text -o /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app.dSYM0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+s344002226.207112
+e344002226.230837
+r1
+xGenerateDSYMFile
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/text.app.dSYM build/Debug-iphonesimulator/text.app/text344002226#344002226#0(0"0(0#0#71"/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text8612788640#347"    cd /Users/sandeep/Documents/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text -o /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text" normal i386
+s349935888.174191
+e349935888.207433
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text
+xnormal
+xi386
+lSLF07#2@106"Link /Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text349935888#349935888#0(0"0(0#0#0"8603137632#1000"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" "-F/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" -filelist "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/text"0#
+
+CLd /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text normal i386
+s344427056.800198
+e344427056.824834
+r1
+xLd
+x/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text
+xnormal
+xi386
+lSLF07#2@78"Link /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text344427056#344427056#0(0"0(0#0#0"8609693920#850"    cd /Users/sandeep/Desktop/obj/text    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -F/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -filelist /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/text0#
+
+CLd /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text normal i386
+s344002226.146592
+e344002226.207006
+r1
+xLd
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+xnormal
+xi386
+lSLF07#2@76"Link /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text344002226#344002226#0(0"0(0#0#0"8611129312#840"    cd /Users/sandeep/Documents/text    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sandeep/Documents/text/build/Debug-iphonesimulator -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -filelist /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text0#
+
+CProcessInfoPlistFile "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app/Info.plist" text-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app/Info.plist text-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist text-Info.plist
+s337586848.420426
+e337586848.429080
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist
+xtext-Info.plist
+lSLF07#2@23"Process text-Info.plist337586848#337586848#0(0"0(0#0#45"/Users/sandeep/Documents/text/text-Info.plist8612708320#443"    cd /Users/sandeep/Documents/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility text-Info.plist -genpkginfo /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s349935886.372777
+e349935888.003911
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch.gch
+xtext_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile text_Prefix.pch349935886#349935888#0(0"0(0#0#75"/Users/sandeep/Desktop/sandeeprdy/string concadination app /text_Prefix.pch7594869363256030208#1979"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/include" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386" "-I/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/text.build/Debug-iphonesimulator/text.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/string concadination app /text_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-bazqhedrjvqqilceqeralugicwow/text_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586848.935276
+e337586849.908641
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch
+xtext_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile text_Prefix.pch337586848#337586849#0(0"0(0#0#45"/Users/sandeep/Documents/text/text_Prefix.pch8613606336#1659"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -c /Users/sandeep/Documents/text/text_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s344427055.653924
+e344427056.581076
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch.gch
+xtext_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile text_Prefix.pch344427055#344427056#0(0"0(0#0#47"/Users/sandeep/Desktop/obj/text/text_Prefix.pch8622267136#1679"    cd /Users/sandeep/Desktop/obj/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator -I/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Desktop/obj/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -c /Users/sandeep/Desktop/obj/text/text_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-ftvawnqouxwamsdkqlypkvunjztr/text_Prefix.pch.gch0#
+
+CTouch "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app"
+s349935888.314318
+e349935888.316863
+r1
+xTouch
+x/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app
+lSLF07#2@102"Touch /Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app349935888#349935888#0(0"0(0#0#0"8599666944#321"    cd "/Users/sandeep/Desktop/sandeeprdy/string concadination app "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sandeep/Desktop/sandeeprdy/string concadination app /build/Debug-iphonesimulator/text.app"0#
+
+CTouch /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app
+s344427056.861691
+e344427056.864787
+r1
+xTouch
+x/Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app
+lSLF07#2@74"Touch /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app344427056#344427056#0(0"0(0#0#0"8639380416#261"    cd /Users/sandeep/Desktop/obj/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Desktop/obj/text/build/Debug-iphonesimulator/text.app0#
+
+CTouch /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app
+s344002226.231013
+e344002226.236463
+r1
+xTouch
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app
+lSLF07#2@72"Touch /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app344002226#344002226#0(0"0(0#0#0"8610737632#257"    cd /Users/sandeep/Documents/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app0#
+

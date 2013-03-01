@@ -1,0 +1,314 @@
+Tmemory
+v7
+r0
+t349083879.766229
+cCheck dependencies
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch.gch memory_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/sandeep/Desktop/obj/memory/build/Debug/memory
+t1322731688
+s10176
+
+N/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+t1322731688
+s7908
+
+N/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList
+c000000004ED748A500000000000000D2
+t1322731685
+s210
+
+N/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+t1322731688
+s8428
+
+N/Users/sandeep/Desktop/obj/memory/management.h
+c000000004D94451900000000000000F9
+t1301562649
+s249
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/obj/memory/management.m
+c000000004D945C390000000000000163
+t1301568569
+s355
+i"management.h"
+
+N/Users/sandeep/Desktop/obj/memory/memory.m
+c000000004D946CF40000000000000316
+t1301572852
+s790
+i<Foundation/Foundation.h>
+i"management.h"
+
+N/Users/sandeep/Desktop/obj/memory/memory_Prefix.pch
+c000000004D9441ED000000000000009A
+t1301561837
+s154
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory
+t1327391079
+s10264
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+t1327391079
+s7948
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList
+c000000004F1E616200000000000000FC
+t1327391074
+s252
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+t1327391079
+s8476
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.h
+c000000004D94451900000000000000F9
+t1301562649
+s249
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m
+c000000004D945C390000000000000163
+t1301568569
+s355
+i"management.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m
+c000000004D946CF40000000000000316
+t1301572852
+s790
+i<Foundation/Foundation.h>
+i"management.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory_Prefix.pch
+c000000004D9441ED000000000000009A
+t1301561837
+s154
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/memory/build/Debug/memory
+t1301572853
+s10168
+
+N/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+t1301568570
+s7900
+
+N/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList
+c000000004D945C2400000000000000CE
+t1301568548
+s206
+
+N/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+t1301572853
+s8428
+
+N/Users/sandeep/Documents/memory/management.h
+c000000004D94451900000000000000F9
+t1301562649
+s249
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/memory/management.m
+c000000004D945C390000000000000163
+t1301568569
+s355
+i"management.h"
+
+N/Users/sandeep/Documents/memory/memory.m
+c000000004D946CF40000000000000316
+t1301572852
+s790
+i<Foundation/Foundation.h>
+i"management.h"
+
+N/Users/sandeep/Documents/memory/memory_Prefix.pch
+c000000004D9441ED000000000000009A
+t1301561837
+s154
+i<Foundation/Foundation.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch.gch
+t1322731688
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch.gch
+t1327391079
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch.gch
+t1301568552
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349083874#349083874#0(0"0(0#1#0"8616875744#0"0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349083879.469163
+e349083879.726753
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+x/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m349083879#349083879#0(0"0(0#0#67"/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m8615506272#1640"    cd "/Users/sandeep/Desktop/sandeeprdy/memory managment app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/memory managment app/management.m" -o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o"0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o /Users/sandeep/Desktop/obj/memory/management.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424488.315393
+e344424488.504267
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+x/Users/sandeep/Desktop/obj/memory/management.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/obj/memory/management.m344424488#344424488#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/memory/management.m8607210176#1387"    cd /Users/sandeep/Desktop/obj/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Desktop/obj/memory/build/Debug -I/Users/sandeep/Desktop/obj/memory/build/Debug/include -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch -c /Users/sandeep/Desktop/obj/memory/management.m -o /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o /Users/sandeep/Documents/memory/management.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323261369.615539
+e323261370.086331
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o
+x/Users/sandeep/Documents/memory/management.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Documents/memory/management.m323261369#323261370#0(0"0(0#0#44"/Users/sandeep/Documents/memory/management.m8623226752#1365"    cd /Users/sandeep/Documents/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Documents/memory/build/Debug -I/Users/sandeep/Documents/memory/build/Debug/include -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch -c /Users/sandeep/Documents/memory/management.m -o /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/management.o0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349083879.465486
+e349083879.725517
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+x/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m349083879#349083879#0(0"0(0#0#63"/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m8611423040#1632"    cd "/Users/sandeep/Desktop/sandeeprdy/memory managment app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory.m" -o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o"0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o /Users/sandeep/Desktop/obj/memory/memory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424488.314119
+e344424488.608639
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+x/Users/sandeep/Desktop/obj/memory/memory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/sandeep/Desktop/obj/memory/memory.m344424488#344424488#0(0"0(0#0#42"/Users/sandeep/Desktop/obj/memory/memory.m8598836128#1379"    cd /Users/sandeep/Desktop/obj/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Desktop/obj/memory/build/Debug -I/Users/sandeep/Desktop/obj/memory/build/Debug/include -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch -c /Users/sandeep/Desktop/obj/memory/memory.m -o /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o0#
+
+CCompileC build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o /Users/sandeep/Documents/memory/memory.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323265652.664515
+e323265653.470187
+r1
+xCompileC
+xbuild/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o
+x/Users/sandeep/Documents/memory/memory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Documents/memory/memory.m323265652#323265653#0(0"0(0#0#40"/Users/sandeep/Documents/memory/memory.m8640103520#1357"    cd /Users/sandeep/Documents/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Documents/memory/build/Debug -I/Users/sandeep/Documents/memory/build/Debug/include -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch -c /Users/sandeep/Documents/memory/memory.m -o /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.o0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory" normal x86_64
+s349083879.726831
+e349083879.766182
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory
+xnormal
+xx86_64
+lSLF07#2@78"Link /Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory349083879#349083879#0(0"0(0#0#0"8618774112#606"    cd "/Users/sandeep/Desktop/sandeeprdy/memory managment app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug" "-F/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug" -filelist "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/memory"0#
+
+CLd /Users/sandeep/Desktop/obj/memory/build/Debug/memory normal x86_64
+s344424488.608724
+e344424488.644062
+r1
+xLd
+x/Users/sandeep/Desktop/obj/memory/build/Debug/memory
+xnormal
+xx86_64
+lSLF07#2@57"Link /Users/sandeep/Desktop/obj/memory/build/Debug/memory344424488#344424488#0(0"0(0#0#0"8601513984#491"    cd /Users/sandeep/Desktop/obj/memory    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Desktop/obj/memory/build/Debug -F/Users/sandeep/Desktop/obj/memory/build/Debug -filelist /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Desktop/obj/memory/build/Debug/memory0#
+
+CLd /Users/sandeep/Documents/memory/build/Debug/memory normal x86_64
+s323265653.470292
+e323265653.500388
+r1
+xLd
+x/Users/sandeep/Documents/memory/build/Debug/memory
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/sandeep/Documents/memory/build/Debug/memory323265653#323265653#0(0"0(0#0#0"8630944896#481"    cd /Users/sandeep/Documents/memory    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Documents/memory/build/Debug -F/Users/sandeep/Documents/memory/build/Debug -filelist /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/Objects-normal/x86_64/memory.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Documents/memory/build/Debug/memory0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch.gch memory_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424485.373825
+e344424488.313898
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch.gch
+xmemory_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile memory_Prefix.pch344424485#344424488#0(0"0(0#0#51"/Users/sandeep/Desktop/obj/memory/memory_Prefix.pch8609493312#1287"    cd /Users/sandeep/Desktop/obj/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Desktop/obj/memory/build/Debug -I/Users/sandeep/Desktop/obj/memory/build/Debug/include -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/memory/build/memory.build/Debug/memory.build/DerivedSources -c /Users/sandeep/Desktop/obj/memory/memory_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-bvefoapjmhjohdaovrnxcpkgsykb/memory_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch.gch memory_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349083874.538533
+e349083879.465306
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch.gch
+xmemory_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile memory_Prefix.pch349083874#349083879#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory_Prefix.pch8613408096#1517"    cd "/Users/sandeep/Desktop/sandeeprdy/memory managment app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/memory-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/memory managment app/build/memory.build/Debug/memory.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/memory managment app/memory_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-czyfilpoupxsvlbpqtrtlsqlrtpy/memory_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch.gch memory_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323261348.208271
+e323261352.584316
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch.gch
+xmemory_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile memory_Prefix.pch323261348#323261352#0(0"0(0#0#49"/Users/sandeep/Documents/memory/memory_Prefix.pch7309993516165394432#1267"    cd /Users/sandeep/Documents/memory    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-generated-files.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-own-target-headers.hmap -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-all-target-headers.hmap -iquote /Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/memory-project-headers.hmap -F/Users/sandeep/Documents/memory/build/Debug -I/Users/sandeep/Documents/memory/build/Debug/include -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/memory/build/memory.build/Debug/memory.build/DerivedSources -c /Users/sandeep/Documents/memory/memory_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/memory_Prefix-gegdyleduodlxvbmbkswdadjncqm/memory_Prefix.pch.gch0#
+

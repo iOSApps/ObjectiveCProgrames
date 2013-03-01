@@ -1,0 +1,238 @@
+Ttext
+v7
+r0
+t337586850.016009
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist text-Info.plist
+cCompileXIB /Users/sandeep/Documents/text/MainWindow.xib
+cCompileXIB /Users/sandeep/Documents/text/textViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o /Users/sandeep/Documents/text/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o /Users/sandeep/Documents/text/Classes/textAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o /Users/sandeep/Documents/text/Classes/textViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Documents/text/Classes/textAppDelegate.h
+c000000004E6EEF6500000000000001C9
+t1315893093
+s457
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/Classes/textAppDelegate.m
+c000000004E6EEF650000000000000A82
+t1315893093
+s2690
+i"textAppDelegate.h"
+i"textViewController.h"
+
+N/Users/sandeep/Documents/text/Classes/textViewController.h
+c000000004E6EF32000000000000001FC
+t1315894048
+s508
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/Classes/textViewController.m
+c000000004E6EF32000000000000006E8
+t1315894048
+s1768
+i"textViewController.h"
+
+N/Users/sandeep/Documents/text/MainWindow.xib
+c000000004E6EEF650000000000004E05
+t1315893093
+s19973
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app
+t2
+s0
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM
+t2
+s0
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist
+t1315894048
+s579
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/MainWindow.nib
+t1315894048
+s1117
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/PkgInfo
+t1315894048
+s8
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+t2
+s0
+
+N/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/textViewController.nib
+t1315894048
+s1901
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+t1315894049
+s6284
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/text.LinkFileList
+c000000004E6EF320000000000000015A
+t1315894048
+s346
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+t1315894049
+s50788
+
+N/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+t2
+s0
+
+N/Users/sandeep/Documents/text/main.m
+c000000004E6EEF650000000000000162
+t1315893093
+s354
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/text/textViewController.xib
+c000000004E6EF2F700000000000055F4
+t1315894007
+s22004
+
+N/Users/sandeep/Documents/text/text_Prefix.pch
+c000000004E6EEF6500000000000000B1
+t1315893093
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch
+t1315894049
+s15453392
+
+Ntext-Info.plist
+c000000004E6EEF65000000000000038D
+t1315893093
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337586848#337586848#0(0"0(0#1#0"8614319296#0"0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o /Users/sandeep/Documents/text/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586849.908778
+e337586849.965603
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/text/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/sandeep/Documents/text/main.m337586849#337586849#0(0"0(0#0#36"/Users/sandeep/Documents/text/main.m8613331296#1755"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/main.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/main.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o /Users/sandeep/Documents/text/Classes/textAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586849.910317
+e337586850.012976
+r1
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o
+x/Users/sandeep/Documents/text/Classes/textAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sandeep/Documents/text/Classes/textAppDelegate.m337586849#337586850#0(0"0(0#0#55"/Users/sandeep/Documents/text/Classes/textAppDelegate.m8603943840#1785"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/Classes/textAppDelegate.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textAppDelegate.o0#
+
+CCompileC build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o /Users/sandeep/Documents/text/Classes/textViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586849.965785
+e337586850.015936
+r0
+xCompileC
+xbuild/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o
+x/Users/sandeep/Documents/text/Classes/textViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Documents/text/Classes/textViewController.m: In function '-[textViewController change]':
+o/Users/sandeep/Documents/text/Classes/textViewController.m:18: error: request for member 'string' in something not a structure or union
+o/Users/sandeep/Documents/text/Classes/textViewController.m:20: error: request for member 'string' in something not a structure or union
+lSLF07#2@66"Compile /Users/sandeep/Documents/text/Classes/textViewController.m337586849#337586850#0(376"/Users/sandeep/Documents/text/Classes/textViewController.m: In function '-[textViewController change]':/Users/sandeep/Documents/text/Classes/textViewController.m:18: error: request for member 'string' in something not a structure or union/Users/sandeep/Documents/text/Classes/textViewController.m:20: error: request for member 'string' in something not a structure or union2(4@65"Request for member 'string' in something not a structure or union337586850#104#136#0(6@58"/Users/sandeep/Documents/text/Classes/textViewController.m337586848#18#0#18#0#0"0(4@65"Request for member 'string' in something not a structure or union337586850#240#136#0(6@58"/Users/sandeep/Documents/text/Classes/textViewController.m337586848#20#0#20#0#0"0(0#0#58"/Users/sandeep/Documents/text/Classes/textViewController.m8606197504#1791"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch -c /Users/sandeep/Documents/text/Classes/textViewController.m -o /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/Objects-normal/i386/textViewController.o1#
+
+CCompileXIB /Users/sandeep/Documents/text/MainWindow.xib
+s337586848.429169
+e337586848.924313
+r1
+xCompileXIB
+x/Users/sandeep/Documents/text/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337586848#337586848#0(0"0(0#0#44"/Users/sandeep/Documents/text/MainWindow.xib8606669344#540"    cd /Users/sandeep/Documents/text    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/MainWindow.nib /Users/sandeep/Documents/text/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/text/textViewController.xib
+s337586848.430129
+e337586848.935156
+r1
+xCompileXIB
+x/Users/sandeep/Documents/text/textViewController.xib
+lSLF07#2@33"CompileXIB textViewController.xib337586848#337586848#0(0"0(0#0#52"/Users/sandeep/Documents/text/textViewController.xib8606573504#556"    cd /Users/sandeep/Documents/text    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/textViewController.nib /Users/sandeep/Documents/text/textViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app.dSYM /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text
+r0
+
+CLd /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/text normal i386
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist text-Info.plist
+s337586848.420426
+e337586848.429080
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist
+xtext-Info.plist
+lSLF07#2@23"Process text-Info.plist337586848#337586848#0(0"0(0#0#45"/Users/sandeep/Documents/text/text-Info.plist8612708320#443"    cd /Users/sandeep/Documents/text    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility text-Info.plist -genpkginfo /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch text_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337586848.935276
+e337586849.908641
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch
+xtext_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile text_Prefix.pch337586848#337586849#0(0"0(0#0#45"/Users/sandeep/Documents/text/text_Prefix.pch8613606336#1659"    cd /Users/sandeep/Documents/text    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-generated-files.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-own-target-headers.hmap -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-all-target-headers.hmap -iquote /Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/text-project-headers.hmap -F/Users/sandeep/Documents/text/build/Debug-iphonesimulator -I/Users/sandeep/Documents/text/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources/i386 -I/Users/sandeep/Documents/text/build/text.build/Debug-iphonesimulator/text.build/DerivedSources -c /Users/sandeep/Documents/text/text_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/text_Prefix-cgokuxsshndtqiafgdfptjtrdzyz/text_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Documents/text/build/Debug-iphonesimulator/text.app
+r0
+

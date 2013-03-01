@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'practise10protocol' target in the 'practise10protocol' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

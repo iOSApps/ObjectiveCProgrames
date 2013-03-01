@@ -1,0 +1,216 @@
+Tpractise10protocol
+v7
+r0
+t348991838.567879
+cCheck dependencies
+cProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch practise10protocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o /Users/jyothsna/Desktop/practise10protocol/class1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o /Users/jyothsna/Desktop/practise10protocol/class2.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.LinkFileList
+c000000004F1CF9D300000000000001A4
+t1327299027
+s420
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/pro.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/class.h
+c000000004F1CF6E000000000000000D8
+t1327298272
+s216
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/class.m
+c000000004F1CF6E000000000000000BD
+t1327298272
+s189
+i"class.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class1.h
+c000000004F1CF95F000000000000010E
+t1327298911
+s270
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class1.m
+c000000004F1CF81B00000000000000F5
+t1327298587
+s245
+i"class1.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class2.h
+c000000004F1CF9700000000000000117
+t1327298928
+s279
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class2.m
+c000000004F1CF8A200000000000000F6
+t1327298722
+s246
+i"class2.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m
+c000000004F1CF9B00000000000000167
+t1327298992
+s359
+i<Foundation/Foundation.h>
+i"class1.h"
+i"class2.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch
+c000000004F1CF51400000000000000B2
+t1327297812
+s178
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/pro.h
+c000000004F1CF7F100000000000000D5
+t1327298545
+s213
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/pro.m
+c000000004F1CF55B00000000000000B7
+t1327297883
+s183
+i"pro.h"
+
+N/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch
+t1327299037
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348991826#348991827#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class.o /Users/jyothsna/Desktop/practise10protocol/class.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o /Users/jyothsna/Desktop/practise10protocol/class1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348991837.951372
+e348991838.274994
+r0
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o
+x/Users/jyothsna/Desktop/practise10protocol/class1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jyothsna/Desktop/practise10protocol/class1.m:9:
+o/Users/jyothsna/Desktop/practise10protocol/class1.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class1.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class1.m: In function '-[class1 add]':
+o/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: 'x' undeclared (first use in this function)
+o/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: (Each undeclared identifier is reported only once
+o/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: for each function it appears in.)
+o/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: 'y' undeclared (first use in this function)
+lSLF07#2@59"Compile /Users/jyothsna/Desktop/practise10protocol/class1.m348991837#348991838#0(837"In file included from /Users/jyothsna/Desktop/practise10protocol/class1.m:9:/Users/jyothsna/Desktop/practise10protocol/class1.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class1.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class1.m: In function '-[class1 add]':/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: 'x' undeclared (first use in this function)/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: (Each undeclared identifier is reported only once/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: for each function it appears in.)/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: 'y' undeclared (first use in this function)4(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#77#127#2(7@73"In file included from /Users/jyothsna/Desktop/practise10protocol/class1.m348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.m348991387#9#0#9#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class1.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#14#0#14#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#14#0#14#0#19"expected * before *0(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#204#127#2(7@73"In file included from /Users/jyothsna/Desktop/practise10protocol/class1.m348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.m348991387#9#0#9#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class1.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#15#0#15#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#15#0#15#0#19"expected * before *0(4@43"'x' undeclared (first use in this function)348991838#413#107#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.m348991387#15#0#15#0#43"'*' undeclared (first use in this function)0(4@43"'y' undeclared (first use in this function)348991838#730#107#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.m348991387#15#0#15#0#43"'*' undeclared (first use in this function)0(0#0#51"/Users/jyothsna/Desktop/practise10protocol/class1.m8611275904#1718"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/class1.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o1#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o /Users/jyothsna/Desktop/practise10protocol/class2.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348991838.275086
+e348991838.567798
+r0
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o
+x/Users/jyothsna/Desktop/practise10protocol/class2.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jyothsna/Desktop/practise10protocol/class2.m:9:
+o/Users/jyothsna/Desktop/practise10protocol/class2.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class2.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class2.m: In function '-[class2 add]':
+o/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: 'za' undeclared (first use in this function)
+o/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: (Each undeclared identifier is reported only once
+o/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: for each function it appears in.)
+o/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: 'b' undeclared (first use in this function)
+o/Users/jyothsna/Desktop/practise10protocol/class2.m:16: warning: implicit declaration of function 'NSLod'
+lSLF07#2@59"Compile /Users/jyothsna/Desktop/practise10protocol/class2.m348991838#348991838#0(944"In file included from /Users/jyothsna/Desktop/practise10protocol/class2.m:9:/Users/jyothsna/Desktop/practise10protocol/class2.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class2.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class2.m: In function '-[class2 add]':/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: 'za' undeclared (first use in this function)/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: (Each undeclared identifier is reported only once/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: for each function it appears in.)/Users/jyothsna/Desktop/practise10protocol/class2.m:15: error: 'b' undeclared (first use in this function)/Users/jyothsna/Desktop/practise10protocol/class2.m:16: warning: implicit declaration of function 'NSLod'5(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#77#127#2(7@73"In file included from /Users/jyothsna/Desktop/practise10protocol/class2.m348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.m348991522#9#0#9#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class2.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#14#0#14#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#14#0#14#0#19"expected * before *0(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#204#127#2(7@73"In file included from /Users/jyothsna/Desktop/practise10protocol/class2.m348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.m348991522#9#0#9#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class2.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#15#0#15#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#15#0#15#0#19"expected * before *0(4@44"'za' undeclared (first use in this function)348991838#413#108#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.m348991522#15#0#15#0#43"'*' undeclared (first use in this function)0(4@43"'b' undeclared (first use in this function)348991838#731#107#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.m348991522#15#0#15#0#43"'*' undeclared (first use in this function)0(22@40"Implicit declaration of function 'NSLod'348991838#838#106#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.m348991522#16#0#16#0#36"implicit declaration of function '*'0(0#0#51"/Users/jyothsna/Desktop/practise10protocol/class2.m3559377977267675648#1718"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/class2.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o1#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348991837.941847
+e348991838.277254
+r0
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o
+x/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:2:
+o/Users/jyothsna/Desktop/practise10protocol/class1.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class1.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+oIn file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:3:
+o/Users/jyothsna/Desktop/practise10protocol/class2.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/class2.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m: In function 'main':
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: 'clas1' undeclared (first use in this function)
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: (Each undeclared identifier is reported only once
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: for each function it appears in.)
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: 't' undeclared (first use in this function)
+o/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:6: warning: unused variable 'pool'
+lSLF07#2@71"Compile /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991837#348991838#0(1346"In file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:2:/Users/jyothsna/Desktop/practise10protocol/class1.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class1.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' tokenIn file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:3:/Users/jyothsna/Desktop/practise10protocol/class2.h:14: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/class2.h:15: error: expected ':', ',', ';', '}' or '__attribute__' before '=' token/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m: In function 'main':/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: 'clas1' undeclared (first use in this function)/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: (Each undeclared identifier is reported only once/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: for each function it appears in.)/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:11: error: 't' undeclared (first use in this function)/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m:6: warning: unused variable 'pool'7(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#89#127#2(7@85"In file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991838#18446744073709551615#0#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#2#0#2#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class1.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#14#0#14#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#14#0#14#0#19"expected * before *0(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#216#127#2(7@85"In file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991838#18446744073709551615#0#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#2#0#2#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class1.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#15#0#15#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class1.h348991711#15#0#15#0#19"expected * before *0(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#432#127#2(7@85"In file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991838#18446744073709551615#0#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#3#0#3#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class2.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#14#0#14#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#14#0#14#0#19"expected * before *0(4@63"Expected ':', ',', ';', '}' or '__attribute__' before '=' token348991838#559#127#2(7@85"In file included from /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991838#18446744073709551615#0#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#3#0#3#0#0"0(13@118"Expected ':', ',', ';', '}' or '__attribute__' before '=' token in /Users/jyothsna/Desktop/practise10protocol/class2.h348991838#18446744073709551615#0#0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#15#0#15#0#0"0(6@51"/Users/jyothsna/Desktop/practise10protocol/class2.h348991728#15#0#15#0#19"expected * before *0(4@47"'clas1' undeclared (first use in this function)348991838#771#123#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#11#0#11#0#43"'*' undeclared (first use in this function)0(4@43"'t' undeclared (first use in this function)348991838#1128#119#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#11#0#11#0#43"'*' undeclared (first use in this function)0(22@22"Unused variable 'pool'348991838#1247#99#0(6@63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m348991792#6#0#6#0#19"unused variable '*'0(0#0#63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m8612432768#1742"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o1#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/pro.o /Users/jyothsna/Desktop/practise10protocol/pro.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol normal x86_64
+r0
+
+CProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch practise10protocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348991827.610616
+e348991837.940879
+r1
+xProcessPCH
+x/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch
+xpractise10protocol_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile practise10protocol_Prefix.pch348991827#348991838#0(0"0(0#0#72"/Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch3472668334044242944#1605"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -c /Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch -o /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch0#
+

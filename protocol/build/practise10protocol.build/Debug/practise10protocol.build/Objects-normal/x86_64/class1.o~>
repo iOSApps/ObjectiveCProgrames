@@ -1,0 +1,5 @@
+/Users/jyothsna/Desktop/practise10protocol/class1.m: In function '-[class1 add]':
+/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: 'x' undeclared (first use in this function)
+/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: (Each undeclared identifier is reported only once
+/Users/jyothsna/Desktop/practise10protocol/class1.m:15: error: for each function it appears in.)
+/Users/jyothsna/Desktop/practise10protocol/class1.m:16: error: 'y' undeclared (first use in this function)

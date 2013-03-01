@@ -1,0 +1,257 @@
+Tproject1
+v7
+r0
+t350460139.255941
+cCheck dependencies
+cProcessInfoPlistFile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/Info.plist project1-Info.plist
+cCompileXIB /Users/jyothsna/Desktop/project1/MainWindow.xib
+cCompileXIB /Users/jyothsna/Desktop/project1/Classes/class1.xib
+cProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch.gch project1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/main.o /Users/jyothsna/Desktop/project1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1AppDelegate.o /Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/class1.o /Users/jyothsna/Desktop/project1/Classes/class1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1 normal i386
+cGenerateDSYMFile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app.dSYM /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1
+cTouch /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jyothsna/Desktop/project1/Classes/class1.h
+c000000004F33611E00000000000000CE
+t1328767262
+s206
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/project1/Classes/class1.m
+c000000004F33611E0000000000000586
+t1328767262
+s1414
+i"class1.h"
+
+N/Users/jyothsna/Desktop/project1/Classes/class1.xib
+c000000004F33611E000000000000184D
+t1328767262
+s6221
+
+N/Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.h
+c000000004F33610200000000000001ED
+t1328767234
+s493
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m
+c000000004F33615C0000000000000A19
+t1328767324
+s2585
+i"project1AppDelegate.h"
+
+N/Users/jyothsna/Desktop/project1/MainWindow.xib
+c000000004F33607E000000000000210D
+t1328767102
+s8461
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app
+t1328767339
+s238
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app.dSYM
+t1328767339
+s102
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/Info.plist
+t1328767337
+s595
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/MainWindow.nib
+t1328767337
+s985
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/PkgInfo
+t1328767337
+s8
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/class1.nib
+t1328767337
+s764
+
+N/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1
+t1328767339
+s17148
+
+N/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/class1.o
+t1328767339
+s37372
+
+N/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/main.o
+t1328767339
+s6292
+
+N/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1.LinkFileList
+c000000004F3361690000000000000173
+t1328767337
+s371
+
+N/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1AppDelegate.o
+t1328767339
+s54560
+
+N/Users/jyothsna/Desktop/project1/main.m
+c000000004F33607E0000000000000167
+t1328767102
+s359
+i<UIKit/UIKit.h>
+
+N/Users/jyothsna/Desktop/project1/project1_Prefix.pch
+c000000004F33607E00000000000000B9
+t1328767102
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch.gch
+t1328767338
+s15453392
+
+Nproject1-Info.plist
+c000000004F33607E000000000000038D
+t1328767102
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350460136#350460137#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/class1.o /Users/jyothsna/Desktop/project1/Classes/class1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460139.116442
+e350460139.197887
+r1
+xCompileC
+xbuild/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/class1.o
+x/Users/jyothsna/Desktop/project1/Classes/class1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jyothsna/Desktop/project1/Classes/class1.m350460139#350460139#0(0"0(0#0#49"/Users/jyothsna/Desktop/project1/Classes/class1.m8614763904#1880"    cd /Users/jyothsna/Desktop/project1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-generated-files.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-own-target-headers.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-project-headers.hmap -F/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -I/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/include -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources/i386 -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch -c /Users/jyothsna/Desktop/project1/Classes/class1.m -o /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/class1.o0#
+
+CCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/main.o /Users/jyothsna/Desktop/project1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460139.050430
+e350460139.116335
+r1
+xCompileC
+xbuild/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/main.o
+x/Users/jyothsna/Desktop/project1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/jyothsna/Desktop/project1/main.m350460139#350460139#0(0"0(0#0#39"/Users/jyothsna/Desktop/project1/main.m8613871136#1868"    cd /Users/jyothsna/Desktop/project1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-generated-files.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-own-target-headers.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-project-headers.hmap -F/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -I/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/include -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources/i386 -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch -c /Users/jyothsna/Desktop/project1/main.m -o /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/main.o0#
+
+CCompileC build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1AppDelegate.o /Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460139.051492
+e350460139.164564
+r1
+xCompileC
+xbuild/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1AppDelegate.o
+x/Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m350460139#350460139#0(0"0(0#0#62"/Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m8615049152#1906"    cd /Users/jyothsna/Desktop/project1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-generated-files.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-own-target-headers.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-project-headers.hmap -F/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -I/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/include -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources/i386 -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch -c /Users/jyothsna/Desktop/project1/Classes/project1AppDelegate.m -o /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1AppDelegate.o0#
+
+CCompileXIB /Users/jyothsna/Desktop/project1/Classes/class1.xib
+s350460137.132485
+e350460137.956744
+r1
+xCompileXIB
+x/Users/jyothsna/Desktop/project1/Classes/class1.xib
+o2012-02-09 11:32:17.656 Interface Builder Cocoa Touch Tool[3176:1903] CFPreferences: user home directory at file://localhost/Users/jyothsna/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@29"CompileXIB Classes/class1.xib350460137#350460137#0(242"2012-02-09 11:32:17.656 Interface Builder Cocoa Touch Tool[3176:1903] CFPreferences: user home directory at file://localhost/Users/jyothsna/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#51"/Users/jyothsna/Desktop/project1/Classes/class1.xib8615390400#553"    cd /Users/jyothsna/Desktop/project1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/class1.nib /Users/jyothsna/Desktop/project1/Classes/class1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jyothsna/Desktop/project1/MainWindow.xib
+s350460137.130755
+e350460137.995177
+r1
+xCompileXIB
+x/Users/jyothsna/Desktop/project1/MainWindow.xib
+o2012-02-09 11:32:17.695 Interface Builder Cocoa Touch Tool[3177:1903] CFPreferences: user home directory at file://localhost/Users/jyothsna/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib350460137#350460137#0(242"2012-02-09 11:32:17.695 Interface Builder Cocoa Touch Tool[3177:1903] CFPreferences: user home directory at file://localhost/Users/jyothsna/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#47"/Users/jyothsna/Desktop/project1/MainWindow.xib8616226912#553"    cd /Users/jyothsna/Desktop/project1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/MainWindow.nib /Users/jyothsna/Desktop/project1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app.dSYM /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1
+s350460139.222602
+e350460139.238752
+r1
+xGenerateDSYMFile
+x/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app.dSYM
+x/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/project1.app.dSYM build/Debug-iphonesimulator/project1.app/project1350460139#350460139#0(0"0(0#0#82"/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project18597091776#368"    cd /Users/jyothsna/Desktop/project1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1 -o /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app.dSYM0#
+
+CLd /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1 normal i386
+s350460139.197983
+e350460139.222499
+r1
+xLd
+x/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1
+xnormal
+xi386
+lSLF07#2@87"Link /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project1350460139#350460139#0(0"0(0#0#0"8605456800#875"    cd /Users/jyothsna/Desktop/project1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -F/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -filelist /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/Objects-normal/i386/project1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/project10#
+
+CProcessInfoPlistFile /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/Info.plist project1-Info.plist
+s350460137.076556
+e350460137.130650
+r1
+xProcessInfoPlistFile
+x/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/Info.plist
+xproject1-Info.plist
+lSLF07#2@27"Process project1-Info.plist350460137#350460137#0(0"0(0#0#52"/Users/jyothsna/Desktop/project1/project1-Info.plist32933040433463412#464"    cd /Users/jyothsna/Desktop/project1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility project1-Info.plist -genpkginfo /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app/Info.plist0#
+
+CProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch.gch project1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350460137.995323
+e350460139.050236
+r1
+xProcessPCH
+x/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch.gch
+xproject1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile project1_Prefix.pch350460137#350460139#0(0"0(0#0#52"/Users/jyothsna/Desktop/project1/project1_Prefix.pch8615608288#1765"    cd /Users/jyothsna/Desktop/project1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-generated-files.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-own-target-headers.hmap -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/project1-project-headers.hmap -F/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator -I/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/include -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources/i386 -I/Users/jyothsna/Desktop/project1/build/project1.build/Debug-iphonesimulator/project1.build/DerivedSources -c /Users/jyothsna/Desktop/project1/project1_Prefix.pch -o /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/project1_Prefix-dhcfepbqnsvprveqineojkpxjvkw/project1_Prefix.pch.gch0#
+
+CTouch /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app
+s350460139.238848
+e350460139.255890
+r1
+xTouch
+x/Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app
+lSLF07#2@79"Touch /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app350460139#350460139#0(0"0(0#0#0"8613801440#267"    cd /Users/jyothsna/Desktop/project1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jyothsna/Desktop/project1/build/Debug-iphonesimulator/project1.app0#
+

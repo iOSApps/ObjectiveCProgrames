@@ -1,0 +1,240 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC74AEAC14C8002000068F88 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC74AEAB14C8002000068F88 /* Foundation.framework */; };
+		AC74AEAF14C8002000068F88 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AC74AEAE14C8002000068F88 /* main.m */; };
+		AC74AEB914C8003500068F88 /* assgn.m in Sources */ = {isa = PBXBuildFile; fileRef = AC74AEB814C8003500068F88 /* assgn.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AC74AEA514C8002000068F88 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		AC74AEA714C8002000068F88 /* practise6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = practise6; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC74AEAB14C8002000068F88 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AC74AEAD14C8002000068F88 /* practise6.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = practise6.1; sourceTree = "<group>"; };
+		AC74AEAE14C8002000068F88 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AC74AEB114C8002000068F88 /* practise6-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "practise6-Prefix.pch"; sourceTree = "<group>"; };
+		AC74AEB714C8003500068F88 /* assgn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = assgn.h; sourceTree = "<group>"; };
+		AC74AEB814C8003500068F88 /* assgn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = assgn.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AC74AEA414C8002000068F88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC74AEAC14C8002000068F88 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AC74AE9A14C8001F00068F88 = {
+			isa = PBXGroup;
+			children = (
+				AC74AEA114C8001F00068F88 /* Source */,
+				AC74AEA214C8002000068F88 /* Documentation */,
+				AC74AEA814C8002000068F88 /* Products */,
+				AC74AEAA14C8002000068F88 /* Frameworks */,
+				AC74AEB014C8002000068F88 /* Other Sources */,
+			);
+			sourceTree = "<group>";
+		};
+		AC74AEA114C8001F00068F88 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				AC74AEAE14C8002000068F88 /* main.m */,
+				AC74AEB714C8003500068F88 /* assgn.h */,
+				AC74AEB814C8003500068F88 /* assgn.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		AC74AEA214C8002000068F88 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				AC74AEAD14C8002000068F88 /* practise6.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+		AC74AEA814C8002000068F88 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AC74AEA714C8002000068F88 /* practise6 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AC74AEAA14C8002000068F88 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AC74AEAB14C8002000068F88 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AC74AEB014C8002000068F88 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AC74AEB114C8002000068F88 /* practise6-Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AC74AEA614C8002000068F88 /* practise6 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC74AEB414C8002000068F88 /* Build configuration list for PBXNativeTarget "practise6" */;
+			buildPhases = (
+				AC74AEA314C8002000068F88 /* Sources */,
+				AC74AEA414C8002000068F88 /* Frameworks */,
+				AC74AEA514C8002000068F88 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = practise6;
+			productName = practise6;
+			productReference = AC74AEA714C8002000068F88 /* practise6 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AC74AE9C14C8001F00068F88 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = AC74AE9F14C8001F00068F88 /* Build configuration list for PBXProject "practise6" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AC74AE9A14C8001F00068F88;
+			productRefGroup = AC74AEA814C8002000068F88 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AC74AEA614C8002000068F88 /* practise6 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AC74AEA314C8002000068F88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC74AEAF14C8002000068F88 /* main.m in Sources */,
+				AC74AEB914C8003500068F88 /* assgn.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AC74AEB214C8002000068F88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		AC74AEB314C8002000068F88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PREBINDING = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		AC74AEB514C8002000068F88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "practise6-Prefix.pch";
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AC74AEB614C8002000068F88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "practise6-Prefix.pch";
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AC74AE9F14C8001F00068F88 /* Build configuration list for PBXProject "practise6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC74AEB214C8002000068F88 /* Debug */,
+				AC74AEB314C8002000068F88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC74AEB414C8002000068F88 /* Build configuration list for PBXNativeTarget "practise6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC74AEB514C8002000068F88 /* Debug */,
+				AC74AEB614C8002000068F88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AC74AE9C14C8001F00068F88 /* Project object */;
+}

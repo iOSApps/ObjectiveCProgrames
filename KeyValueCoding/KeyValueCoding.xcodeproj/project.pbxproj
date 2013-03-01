@@ -1,0 +1,242 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AFCF3160157A0E1E0015E0D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFCF315F157A0E1E0015E0D7 /* Foundation.framework */; };
+		AFCF3163157A0E1E0015E0D7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AFCF3162157A0E1E0015E0D7 /* main.m */; };
+		AFCF3167157A0E1E0015E0D7 /* KeyValueCoding.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = AFCF3166157A0E1E0015E0D7 /* KeyValueCoding.1 */; };
+		AFCF316F157A0E3F0015E0D7 /* MyClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AFCF316E157A0E3F0015E0D7 /* MyClass.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AFCF3159157A0E1E0015E0D7 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				AFCF3167157A0E1E0015E0D7 /* KeyValueCoding.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		AFCF315B157A0E1E0015E0D7 /* KeyValueCoding */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KeyValueCoding; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFCF315F157A0E1E0015E0D7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AFCF3162157A0E1E0015E0D7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AFCF3165157A0E1E0015E0D7 /* KeyValueCoding-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KeyValueCoding-Prefix.pch"; sourceTree = "<group>"; };
+		AFCF3166157A0E1E0015E0D7 /* KeyValueCoding.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = KeyValueCoding.1; sourceTree = "<group>"; };
+		AFCF316D157A0E3F0015E0D7 /* MyClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyClass.h; sourceTree = "<group>"; };
+		AFCF316E157A0E3F0015E0D7 /* MyClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyClass.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AFCF3158157A0E1E0015E0D7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFCF3160157A0E1E0015E0D7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AFCF3150157A0E1D0015E0D7 = {
+			isa = PBXGroup;
+			children = (
+				AFCF3161157A0E1E0015E0D7 /* KeyValueCoding */,
+				AFCF315E157A0E1E0015E0D7 /* Frameworks */,
+				AFCF315C157A0E1E0015E0D7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AFCF315C157A0E1E0015E0D7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AFCF315B157A0E1E0015E0D7 /* KeyValueCoding */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AFCF315E157A0E1E0015E0D7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AFCF315F157A0E1E0015E0D7 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AFCF3161157A0E1E0015E0D7 /* KeyValueCoding */ = {
+			isa = PBXGroup;
+			children = (
+				AFCF3162157A0E1E0015E0D7 /* main.m */,
+				AFCF3166157A0E1E0015E0D7 /* KeyValueCoding.1 */,
+				AFCF3164157A0E1E0015E0D7 /* Supporting Files */,
+				AFCF316D157A0E3F0015E0D7 /* MyClass.h */,
+				AFCF316E157A0E3F0015E0D7 /* MyClass.m */,
+			);
+			path = KeyValueCoding;
+			sourceTree = "<group>";
+		};
+		AFCF3164157A0E1E0015E0D7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AFCF3165157A0E1E0015E0D7 /* KeyValueCoding-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AFCF315A157A0E1E0015E0D7 /* KeyValueCoding */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AFCF316A157A0E1E0015E0D7 /* Build configuration list for PBXNativeTarget "KeyValueCoding" */;
+			buildPhases = (
+				AFCF3157157A0E1E0015E0D7 /* Sources */,
+				AFCF3158157A0E1E0015E0D7 /* Frameworks */,
+				AFCF3159157A0E1E0015E0D7 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KeyValueCoding;
+			productName = KeyValueCoding;
+			productReference = AFCF315B157A0E1E0015E0D7 /* KeyValueCoding */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AFCF3152157A0E1D0015E0D7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = AFCF3155157A0E1D0015E0D7 /* Build configuration list for PBXProject "KeyValueCoding" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AFCF3150157A0E1D0015E0D7;
+			productRefGroup = AFCF315C157A0E1E0015E0D7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AFCF315A157A0E1E0015E0D7 /* KeyValueCoding */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AFCF3157157A0E1E0015E0D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFCF3163157A0E1E0015E0D7 /* main.m in Sources */,
+				AFCF316F157A0E3F0015E0D7 /* MyClass.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AFCF3168157A0E1E0015E0D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		AFCF3169157A0E1E0015E0D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		AFCF316B157A0E1E0015E0D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KeyValueCoding/KeyValueCoding-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AFCF316C157A0E1E0015E0D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KeyValueCoding/KeyValueCoding-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AFCF3155157A0E1D0015E0D7 /* Build configuration list for PBXProject "KeyValueCoding" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFCF3168157A0E1E0015E0D7 /* Debug */,
+				AFCF3169157A0E1E0015E0D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AFCF316A157A0E1E0015E0D7 /* Build configuration list for PBXNativeTarget "KeyValueCoding" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFCF316B157A0E1E0015E0D7 /* Debug */,
+				AFCF316C157A0E1E0015E0D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AFCF3152157A0E1D0015E0D7 /* Project object */;
+}

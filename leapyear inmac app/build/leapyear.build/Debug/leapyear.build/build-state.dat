@@ -1,0 +1,277 @@
+Tleapyear
+v7
+r0
+t344424419.576823
+cCheck dependencies
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch.gch leapyear_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o /Users/sandeep/Desktop/obj/leapyear/leapyear.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o /Users/sandeep/Desktop/obj/leapyear/leap.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear
+t1322731592
+s10288
+
+N/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o
+t1322731592
+s7372
+
+N/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.LinkFileList
+c000000004ED7484500000000000000DA
+t1322731589
+s218
+
+N/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o
+t1322731592
+s7284
+
+N/Users/sandeep/Desktop/obj/leapyear/leap.h
+c000000004D7A28C200000000000000E1
+t1299851458
+s225
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/obj/leapyear/leap.m
+c000000004D8C5ED7000000000000018B
+t1301044951
+s395
+i"leap.h"
+
+N/Users/sandeep/Desktop/obj/leapyear/leapyear.m
+c000000004D7A28C20000000000000120
+t1299851458
+s288
+i<Foundation/Foundation.h>
+i"leap.h"
+
+N/Users/sandeep/Desktop/obj/leapyear/leapyear_Prefix.pch
+c000000004D7A26D4000000000000009E
+t1299850964
+s158
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/build/Debug/leapyear
+t1322731592
+s10288
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o
+t1322731592
+s7372
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.LinkFileList
+c000000004ED7484500000000000000DA
+t1322731589
+s218
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o
+t1322731592
+s7284
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leap.h
+c000000004D7A28C200000000000000E1
+t1299851458
+s225
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leap.m
+c000000004D8C5ED7000000000000018B
+t1301044951
+s395
+i"leap.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leapyear.m
+c000000004D7A28C20000000000000120
+t1299851458
+s288
+i<Foundation/Foundation.h>
+i"leap.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leapyear_Prefix.pch
+c000000004D7A26D4000000000000009E
+t1299850964
+s158
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/leapyear/build/Debug/leapyear
+t1301044952
+s10280
+
+N/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o
+t1301044952
+s7364
+
+N/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.LinkFileList
+c000000004D7A28C200000000000000D6
+t1299851458
+s214
+
+N/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o
+t1299851460
+s7284
+
+N/Users/sandeep/Documents/leapyear/leap.h
+c000000004D7A28C200000000000000E1
+t1299851458
+s225
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/leapyear/leap.m
+c000000004D8C5ED7000000000000018B
+t1301044951
+s395
+i"leap.h"
+
+N/Users/sandeep/Documents/leapyear/leapyear.m
+c000000004D7A28C20000000000000120
+t1299851458
+s288
+i<Foundation/Foundation.h>
+i"leap.h"
+
+N/Users/sandeep/Documents/leapyear/leapyear_Prefix.pch
+c000000004D7A26D4000000000000009E
+t1299850964
+s158
+i<Foundation/Foundation.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch.gch
+t1299851460
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-fjiypnxwpyquaydwznrfijrhhdpj/leapyear_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch.gch
+t1322731592
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344424419#344424419#0(0"0(0#1#0"8602085696#0"0#
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o "/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leap.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o /Users/sandeep/Desktop/obj/leapyear/leap.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424392.345137
+e344424392.497401
+r1
+xCompileC
+xbuild/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o
+x/Users/sandeep/Desktop/obj/leapyear/leap.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/sandeep/Desktop/obj/leapyear/leap.m344424392#344424392#0(0"0(0#0#42"/Users/sandeep/Desktop/obj/leapyear/leap.m8607477440#1437"    cd /Users/sandeep/Desktop/obj/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Desktop/obj/leapyear/build/Debug -I/Users/sandeep/Desktop/obj/leapyear/build/Debug/include -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch -c /Users/sandeep/Desktop/obj/leapyear/leap.m -o /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o0#
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o /Users/sandeep/Documents/leapyear/leap.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s322737751.386040
+e322737752.081740
+r1
+xCompileC
+xbuild/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o
+x/Users/sandeep/Documents/leapyear/leap.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Documents/leapyear/leap.m322737751#322737752#0(0"0(0#0#40"/Users/sandeep/Documents/leapyear/leap.m3917909816998063104#1415"    cd /Users/sandeep/Documents/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Documents/leapyear/build/Debug -I/Users/sandeep/Documents/leapyear/build/Debug/include -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch -c /Users/sandeep/Documents/leapyear/leap.m -o /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leap.o0#
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o "/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/leapyear.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o /Users/sandeep/Desktop/obj/leapyear/leapyear.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424392.344159
+e344424392.483980
+r1
+xCompileC
+xbuild/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o
+x/Users/sandeep/Desktop/obj/leapyear/leapyear.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/obj/leapyear/leapyear.m344424392#344424392#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/leapyear/leapyear.m8605607648#1445"    cd /Users/sandeep/Desktop/obj/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Desktop/obj/leapyear/build/Debug -I/Users/sandeep/Desktop/obj/leapyear/build/Debug/include -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch -c /Users/sandeep/Desktop/obj/leapyear/leapyear.m -o /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o0#
+
+CCompileC build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o /Users/sandeep/Documents/leapyear/leapyear.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321544260.626647
+e321544260.743992
+r1
+xCompileC
+xbuild/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o
+x/Users/sandeep/Documents/leapyear/leapyear.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Documents/leapyear/leapyear.m321544260#321544260#0(0"0(0#0#44"/Users/sandeep/Documents/leapyear/leapyear.m8612205792#1423"    cd /Users/sandeep/Documents/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Documents/leapyear/build/Debug -I/Users/sandeep/Documents/leapyear/build/Debug/include -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch -c /Users/sandeep/Documents/leapyear/leapyear.m -o /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.o0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/leapyear inmac app/build/Debug/leapyear" normal x86_64
+r0
+
+CLd /Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear normal x86_64
+s344424392.497495
+e344424392.518444
+r1
+xLd
+x/Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear344424392#344424392#0(0"0(0#0#0"8609193984#509"    cd /Users/sandeep/Desktop/obj/leapyear    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Desktop/obj/leapyear/build/Debug -F/Users/sandeep/Desktop/obj/leapyear/build/Debug -filelist /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Desktop/obj/leapyear/build/Debug/leapyear0#
+
+CLd /Users/sandeep/Documents/leapyear/build/Debug/leapyear normal x86_64
+s322737752.081835
+e322737752.375566
+r1
+xLd
+x/Users/sandeep/Documents/leapyear/build/Debug/leapyear
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/sandeep/Documents/leapyear/build/Debug/leapyear322737752#322737752#0(0"0(0#0#0"13229817834242158#499"    cd /Users/sandeep/Documents/leapyear    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Documents/leapyear/build/Debug -F/Users/sandeep/Documents/leapyear/build/Debug -filelist /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/Objects-normal/x86_64/leapyear.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Documents/leapyear/build/Debug/leapyear0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch.gch leapyear_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321544258.265395
+e321544260.626358
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch.gch
+xleapyear_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile leapyear_Prefix.pch321544258#321544260#0(0"0(0#0#53"/Users/sandeep/Documents/leapyear/leapyear_Prefix.pch8616911168#1325"    cd /Users/sandeep/Documents/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Documents/leapyear/build/Debug -I/Users/sandeep/Documents/leapyear/build/Debug/include -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -c /Users/sandeep/Documents/leapyear/leapyear_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-ajupeljczfisarbwrcapjrknxlqe/leapyear_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-fjiypnxwpyquaydwznrfijrhhdpj/leapyear_Prefix.pch.gch leapyear_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch.gch leapyear_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424389.514173
+e344424392.344021
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch.gch
+xleapyear_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile leapyear_Prefix.pch344424389#344424392#0(0"0(0#0#55"/Users/sandeep/Desktop/obj/leapyear/leapyear_Prefix.pch8600291360#1345"    cd /Users/sandeep/Desktop/obj/leapyear    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-generated-files.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/leapyear-project-headers.hmap -F/Users/sandeep/Desktop/obj/leapyear/build/Debug -I/Users/sandeep/Desktop/obj/leapyear/build/Debug/include -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/leapyear/build/leapyear.build/Debug/leapyear.build/DerivedSources -c /Users/sandeep/Desktop/obj/leapyear/leapyear_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/leapyear_Prefix-gpgohftnmnynmrdlgympoezvzppe/leapyear_Prefix.pch.gch0#
+

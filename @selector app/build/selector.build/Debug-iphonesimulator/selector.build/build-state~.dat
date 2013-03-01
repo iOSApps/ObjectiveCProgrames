@@ -1,0 +1,285 @@
+Tselector
+v7
+r0
+t324472008.925506
+cCheck dependencies
+cProcessInfoPlistFile /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/Info.plist selector-Info.plist
+cCompileXIB /Users/sandeep/Documents/selector/MainWindow.xib
+cCompileXIB /Users/sandeep/Documents/selector/selectorViewController.xib
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch.gch selector_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/main.o /Users/sandeep/Documents/selector/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorAppDelegate.o /Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorViewController.o /Users/sandeep/Documents/selector/Classes/selectorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/select.o /Users/sandeep/Documents/selector/Classes/select.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sandeep/Documents/selector/Classes/select.h
+c000000004DA6D5440000000000000148
+t1302779204
+s328
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/selector/Classes/select.m
+c000000004DA6D54400000000000002F3
+t1302779204
+s755
+i"select.h"
+
+N/Users/sandeep/Documents/selector/Classes/selectorAppDelegate.h
+c000000004DA6D03100000000000001E1
+t1302777905
+s481
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m
+c000000004DA6D0310000000000000A96
+t1302777905
+s2710
+i"selectorAppDelegate.h"
+i"selectorViewController.h"
+
+N/Users/sandeep/Documents/selector/Classes/selectorViewController.h
+c000000004DA6D03200000000000000ED
+t1302777906
+s237
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/selector/Classes/selectorViewController.m
+c000000004DA6D03200000000000005C1
+t1302777906
+s1473
+i"selectorViewController.h"
+
+N/Users/sandeep/Documents/selector/MainWindow.xib
+c000000004DA6D0320000000000004E35
+t1302777906
+s20021
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app
+t2
+s0
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app.dSYM
+t2
+s0
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/Info.plist
+t1302779205
+s595
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/MainWindow.nib
+t1302779206
+s1125
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/PkgInfo
+t1302779205
+s8
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/selector
+t2
+s0
+
+N/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/selectorViewController.nib
+t1302779206
+s795
+
+N/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/select.o
+t1302779208
+s9372
+
+N/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selector.LinkFileList
+c000000004DA6D54500000000000001FF
+t1302779205
+s511
+
+N/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorAppDelegate.o
+t1302779208
+s50944
+
+N/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorViewController.o
+t1302779208
+s37512
+
+N/Users/sandeep/Documents/selector/main.m
+c000000004DA6D5440000000000000289
+t1302779204
+s649
+i<UIKit/UIKit.h>
+
+N/Users/sandeep/Documents/selector/selectorViewController.xib
+c000000004DA6D0320000000000001A49
+t1302777906
+s6729
+
+N/Users/sandeep/Documents/selector/selector_Prefix.pch
+c000000004DA6D03200000000000000B9
+t1302777906
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch.gch
+t1302779208
+s15453392
+
+Nselector-Info.plist
+c000000004DA6D032000000000000038D
+t1302777906
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324472005#324472005#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/main.o /Users/sandeep/Documents/selector/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324472008.477527
+e324472008.685832
+r0
+xCompileC
+xbuild/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/main.o
+x/Users/sandeep/Documents/selector/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Documents/selector/main.m: In function 'main':
+o/Users/sandeep/Documents/selector/main.m:14: error: 'selector' undeclared (first use in this function)
+o/Users/sandeep/Documents/selector/main.m:14: error: (Each undeclared identifier is reported only once
+o/Users/sandeep/Documents/selector/main.m:14: error: for each function it appears in.)
+o/Users/sandeep/Documents/selector/main.m:14: error: 'sele' undeclared (first use in this function)
+o/Users/sandeep/Documents/selector/main.m:18: error: 'myarraywithobject' undeclared (first use in this function)
+o/Users/sandeep/Documents/selector/main.m:16: warning: unused variable 'myarray'
+lSLF07#2@48"Compile /Users/sandeep/Documents/selector/main.m324472008#324472008#0(644"/Users/sandeep/Documents/selector/main.m: In function 'main':/Users/sandeep/Documents/selector/main.m:14: error: 'selector' undeclared (first use in this function)/Users/sandeep/Documents/selector/main.m:14: error: (Each undeclared identifier is reported only once/Users/sandeep/Documents/selector/main.m:14: error: for each function it appears in.)/Users/sandeep/Documents/selector/main.m:14: error: 'sele' undeclared (first use in this function)/Users/sandeep/Documents/selector/main.m:18: error: 'myarraywithobject' undeclared (first use in this function)/Users/sandeep/Documents/selector/main.m:16: warning: unused variable 'myarray'4(4@50"'selector' undeclared (first use in this function)324472008#62#103#0(6@40"/Users/sandeep/Documents/selector/main.m324472004#14#0#14#0#43"'*' undeclared (first use in this function)0(4@46"'sele' undeclared (first use in this function)324472008#353#99#0(6@40"/Users/sandeep/Documents/selector/main.m324472004#14#0#14#0#43"'*' undeclared (first use in this function)0(4@59"'myarraywithobject' undeclared (first use in this function)324472008#452#112#0(6@40"/Users/sandeep/Documents/selector/main.m324472004#18#0#18#0#43"'*' undeclared (first use in this function)0(22@25"Unused variable 'myarray'324472008#564#80#0(6@40"/Users/sandeep/Documents/selector/main.m324472004#16#0#16#0#19"unused variable '*'0(0#0#40"/Users/sandeep/Documents/selector/main.m8619363264#1879"    cd /Users/sandeep/Documents/selector    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-generated-files.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-own-target-headers.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-all-target-headers.hmap -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-project-headers.hmap -F/Users/sandeep/Documents/selector/build/Debug-iphonesimulator -I/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources/i386 -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch -c /Users/sandeep/Documents/selector/main.m -o /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/main.o1#
+
+CCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/select.o /Users/sandeep/Documents/selector/Classes/select.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324472008.695104
+e324472008.862551
+r1
+xCompileC
+xbuild/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/select.o
+x/Users/sandeep/Documents/selector/Classes/select.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sandeep/Documents/selector/Classes/select.m: In function '-[select run]':
+o/Users/sandeep/Documents/selector/Classes/select.m:17: warning: 'select' may not respond to '-performSelector:withobject:'
+o/Users/sandeep/Documents/selector/Classes/select.m:17: warning: (Messages without a matching method signature
+o/Users/sandeep/Documents/selector/Classes/select.m:17: warning: will be assumed to return 'id' and accept
+o/Users/sandeep/Documents/selector/Classes/select.m:17: warning: '...' as arguments.)
+o/Users/sandeep/Documents/selector/Classes/select.m: In function '-[select echoname:]':
+o/Users/sandeep/Documents/selector/Classes/select.m:26: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSArray *'
+o/Users/sandeep/Documents/selector/Classes/select.m: At top level:
+o/Users/sandeep/Documents/selector/Classes/select.m:37: warning: incomplete implementation of class 'select'
+o/Users/sandeep/Documents/selector/Classes/select.m:37: warning: method definition for '-echohello' not found
+o/Users/sandeep/Documents/selector/Classes/select.m:37: warning: method definition for '-echonames:' not found
+lSLF07#2@58"Compile /Users/sandeep/Documents/selector/Classes/select.m324472008#324472008#0(1142"/Users/sandeep/Documents/selector/Classes/select.m: In function '-[select run]':/Users/sandeep/Documents/selector/Classes/select.m:17: warning: 'select' may not respond to '-performSelector:withobject:'/Users/sandeep/Documents/selector/Classes/select.m:17: warning: (Messages without a matching method signature/Users/sandeep/Documents/selector/Classes/select.m:17: warning: will be assumed to return 'id' and accept/Users/sandeep/Documents/selector/Classes/select.m:17: warning: '...' as arguments.)/Users/sandeep/Documents/selector/Classes/select.m: In function '-[select echoname:]':/Users/sandeep/Documents/selector/Classes/select.m:26: warning: incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSArray *'/Users/sandeep/Documents/selector/Classes/select.m: At top level:/Users/sandeep/Documents/selector/Classes/select.m:37: warning: incomplete implementation of class 'select'/Users/sandeep/Documents/selector/Classes/select.m:37: warning: method definition for '-echohello' not found/Users/sandeep/Documents/selector/Classes/select.m:37: warning: method definition for '-echonames:' not found7(22@58"'select' may not respond to '-performSelector:withobject:'324472008#81#123#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#17#0#17#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)324472008#204#110#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#17#0#17#0#0"0(22@92"Incompatible Objective-C types initializing 'struct NSString *', expected 'struct NSArray *'324472008#592#157#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#26#0#26#0#61"incompatible Objective-C types initializing '*', expected '*'0(23@13"At top level:324472008#749#66#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#0#0#0#0#0"0(22@43"Incomplete implementation of class 'select'324472008#815#108#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#37#0#37#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-echohello' not found324472008#923#109#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#37#0#37#0#35"method definition for '*' not found0(22@45"Method definition for '-echonames:' not found324472008#1032#110#0(6@50"/Users/sandeep/Documents/selector/Classes/select.m324472004#37#0#37#0#35"method definition for '*' not found0(0#0#50"/Users/sandeep/Documents/selector/Classes/select.m8626747776#1891"    cd /Users/sandeep/Documents/selector    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-generated-files.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-own-target-headers.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-all-target-headers.hmap -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-project-headers.hmap -F/Users/sandeep/Documents/selector/build/Debug-iphonesimulator -I/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources/i386 -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch -c /Users/sandeep/Documents/selector/Classes/select.m -o /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/select.o0#
+
+CCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorAppDelegate.o /Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324472008.479065
+e324472008.695013
+r1
+xCompileC
+xbuild/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorAppDelegate.o
+x/Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m324472008#324472008#0(0"0(0#0#63"/Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m8625117504#1917"    cd /Users/sandeep/Documents/selector    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-generated-files.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-own-target-headers.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-all-target-headers.hmap -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-project-headers.hmap -F/Users/sandeep/Documents/selector/build/Debug-iphonesimulator -I/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources/i386 -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch -c /Users/sandeep/Documents/selector/Classes/selectorAppDelegate.m -o /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorAppDelegate.o0#
+
+CCompileC build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorViewController.o /Users/sandeep/Documents/selector/Classes/selectorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324472008.685974
+e324472008.925415
+r1
+xCompileC
+xbuild/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorViewController.o
+x/Users/sandeep/Documents/selector/Classes/selectorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sandeep/Documents/selector/Classes/selectorViewController.m324472008#324472008#0(0"0(0#0#66"/Users/sandeep/Documents/selector/Classes/selectorViewController.m8624959840#1923"    cd /Users/sandeep/Documents/selector    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-generated-files.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-own-target-headers.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-all-target-headers.hmap -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-project-headers.hmap -F/Users/sandeep/Documents/selector/build/Debug-iphonesimulator -I/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources/i386 -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch -c /Users/sandeep/Documents/selector/Classes/selectorViewController.m -o /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/Objects-normal/i386/selectorViewController.o0#
+
+CCompileXIB /Users/sandeep/Documents/selector/MainWindow.xib
+s324472005.046839
+e324472006.259609
+r1
+xCompileXIB
+x/Users/sandeep/Documents/selector/MainWindow.xib
+o2011-04-14 16:36:46.151 Interface Builder Cocoa Touch Tool[8223:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib324472005#324472006#0(241"2011-04-14 16:36:46.151 Interface Builder Cocoa Touch Tool[8223:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#48"/Users/sandeep/Documents/selector/MainWindow.xib8626352416#556"    cd /Users/sandeep/Documents/selector    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/MainWindow.nib /Users/sandeep/Documents/selector/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sandeep/Documents/selector/selectorViewController.xib
+s324472005.074571
+e324472006.389109
+r1
+xCompileXIB
+x/Users/sandeep/Documents/selector/selectorViewController.xib
+o2011-04-14 16:36:46.188 Interface Builder Cocoa Touch Tool[8224:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@37"CompileXIB selectorViewController.xib324472005#324472006#0(241"2011-04-14 16:36:46.188 Interface Builder Cocoa Touch Tool[8224:1903] CFPreferences: user home directory at file://localhost/Users/sandeep/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#60"/Users/sandeep/Documents/selector/selectorViewController.xib8626941440#580"    cd /Users/sandeep/Documents/selector    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/selectorViewController.nib /Users/sandeep/Documents/selector/selectorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app.dSYM /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/selector
+r0
+
+CLd /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/selector normal i386
+r0
+
+CProcessInfoPlistFile /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/Info.plist selector-Info.plist
+s324472005.029502
+e324472005.046733
+r1
+xProcessInfoPlistFile
+x/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/Info.plist
+xselector-Info.plist
+lSLF07#2@27"Process selector-Info.plist324472005#324472005#0(0"0(0#0#53"/Users/sandeep/Documents/selector/selector-Info.plist30681223440564324#467"    cd /Users/sandeep/Documents/selector    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility selector-Info.plist -genpkginfo /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app/Info.plist0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch.gch selector_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324472006.389296
+e324472008.477376
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch.gch
+xselector_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile selector_Prefix.pch324472006#324472008#0(0"0(0#0#53"/Users/sandeep/Documents/selector/selector_Prefix.pch5791473468841354240#1775"    cd /Users/sandeep/Documents/selector    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-generated-files.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-own-target-headers.hmap -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-all-target-headers.hmap -iquote /Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/selector-project-headers.hmap -F/Users/sandeep/Documents/selector/build/Debug-iphonesimulator -I/Users/sandeep/Documents/selector/build/Debug-iphonesimulator/include -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources/i386 -I/Users/sandeep/Documents/selector/build/selector.build/Debug-iphonesimulator/selector.build/DerivedSources -c /Users/sandeep/Documents/selector/selector_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/selector_Prefix-hifubsqynbrrpqbaicddxkqffhhw/selector_Prefix.pch.gch0#
+
+CTouch /Users/sandeep/Documents/selector/build/Debug-iphonesimulator/selector.app
+r0
+

@@ -1,0 +1,223 @@
+Tnsarray1
+v7
+r0
+t353049029.686828
+cCheck dependencies
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch.gch nsarray1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/sandeep/Desktop/obj/nsarray1/build/Debug/nsarray1
+t1322731872
+s9728
+
+N/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList
+c000000004ED7495D000000000000006F
+t1322731869
+s111
+
+N/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+t1322731872
+s10568
+
+N/Users/sandeep/Desktop/obj/nsarray1/nsarray1.m
+c000000004DBA9416000000000000038B
+t1304073238
+s907
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/obj/nsarray1/nsarray1_Prefix.pch
+c000000004DBA86B4000000000000009E
+t1304069812
+s158
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1
+t1331356224
+s9784
+
+N/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList
+c000000004F1E41390000000000000089
+t1327382841
+s137
+
+N/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+t1331356224
+s12140
+
+N/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m
+c000000004F5AE24000000000000004C5
+t1331356224
+s1221
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1_Prefix.pch
+c000000004DBA86B4000000000000009E
+t1304069812
+s158
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/nsarray1/build/Debug/nsarray1
+t1304073242
+s9728
+
+N/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList
+c000000004DBA8723000000000000006D
+t1304069923
+s109
+
+N/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+t1304073241
+s10568
+
+N/Users/sandeep/Documents/nsarray1/nsarray1.m
+c000000004DBA9416000000000000038B
+t1304073238
+s907
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/nsarray1/nsarray1_Prefix.pch
+c000000004DBA86B4000000000000009E
+t1304069812
+s158
+i<Foundation/Foundation.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-cdykplensrxdghbrfngenxwlwzqt/nsarray1_Prefix.pch.gch
+t1304069935
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-ezjgbmisdzgqpicniuyxchjjnuhr/nsarray1_Prefix.pch.gch
+t1322731872
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch.gch
+t1330337962
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353049029#353049029#0(0"0(0#1#0"8621055872#0"0#
+
+CCompileC build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s353049024.193986
+e353049024.556427
+r1
+xCompileC
+xbuild/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+x/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m353049024#353049024#0(0"0(0#0#72"/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m8616652032#1753"    cd "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/DerivedSources" -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch -c "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1.m" -o "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o"0#
+
+CCompileC build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o /Users/sandeep/Desktop/obj/nsarray1/nsarray1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424672.779818
+e344424672.890083
+r1
+xCompileC
+xbuild/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+x/Users/sandeep/Desktop/obj/nsarray1/nsarray1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/sandeep/Desktop/obj/nsarray1/nsarray1.m344424672#344424672#0(0"0(0#0#46"/Users/sandeep/Desktop/obj/nsarray1/nsarray1.m8609534816#1445"    cd /Users/sandeep/Desktop/obj/nsarray1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap -F/Users/sandeep/Desktop/obj/nsarray1/build/Debug -I/Users/sandeep/Desktop/obj/nsarray1/build/Debug/include -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-ezjgbmisdzgqpicniuyxchjjnuhr/nsarray1_Prefix.pch -c /Users/sandeep/Desktop/obj/nsarray1/nsarray1.m -o /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o0#
+
+CCompileC build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o /Users/sandeep/Documents/nsarray1/nsarray1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s325766039.100084
+e325766041.718863
+r1
+xCompileC
+xbuild/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o
+x/Users/sandeep/Documents/nsarray1/nsarray1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sandeep/Documents/nsarray1/nsarray1.m325766039#325766041#0(0"0(0#0#44"/Users/sandeep/Documents/nsarray1/nsarray1.m3917909816998063104#1423"    cd /Users/sandeep/Documents/nsarray1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap -F/Users/sandeep/Documents/nsarray1/build/Debug -I/Users/sandeep/Documents/nsarray1/build/Debug/include -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-cdykplensrxdghbrfngenxwlwzqt/nsarray1_Prefix.pch -c /Users/sandeep/Documents/nsarray1/nsarray1.m -o /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.o0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1" normal x86_64
+s353049024.556517
+e353049024.575085
+r1
+xLd
+x/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1
+xnormal
+xx86_64
+lSLF07#2@87"Link /Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1353049024#353049024#0(0"0(0#0#0"8615203072#649"    cd "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug" "-F/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug" -filelist "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/nsarray1"0#
+
+CLd /Users/sandeep/Desktop/obj/nsarray1/build/Debug/nsarray1 normal x86_64
+s344424672.890167
+e344424672.916040
+r1
+xLd
+x/Users/sandeep/Desktop/obj/nsarray1/build/Debug/nsarray1
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/sandeep/Desktop/obj/nsarray1/build/Debug/nsarray1344424672#344424672#0(0"0(0#0#0"8590478656#509"    cd /Users/sandeep/Desktop/obj/nsarray1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Desktop/obj/nsarray1/build/Debug -F/Users/sandeep/Desktop/obj/nsarray1/build/Debug -filelist /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Desktop/obj/nsarray1/build/Debug/nsarray10#
+
+CLd /Users/sandeep/Documents/nsarray1/build/Debug/nsarray1 normal x86_64
+s325766041.719331
+e325766042.104136
+r1
+xLd
+x/Users/sandeep/Documents/nsarray1/build/Debug/nsarray1
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/sandeep/Documents/nsarray1/build/Debug/nsarray1325766041#325766042#0(0"0(0#0#0"8614498816#499"    cd /Users/sandeep/Documents/nsarray1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Documents/nsarray1/build/Debug -F/Users/sandeep/Documents/nsarray1/build/Debug -filelist /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/Objects-normal/x86_64/nsarray1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Documents/nsarray1/build/Debug/nsarray10#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-cdykplensrxdghbrfngenxwlwzqt/nsarray1_Prefix.pch.gch nsarray1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s325762724.020212
+e325762735.666057
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-cdykplensrxdghbrfngenxwlwzqt/nsarray1_Prefix.pch.gch
+xnsarray1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile nsarray1_Prefix.pch325762724#325762735#0(0"0(0#0#53"/Users/sandeep/Documents/nsarray1/nsarray1_Prefix.pch5791402043217441792#1325"    cd /Users/sandeep/Documents/nsarray1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap -iquote /Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap -F/Users/sandeep/Documents/nsarray1/build/Debug -I/Users/sandeep/Documents/nsarray1/build/Debug/include -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources -c /Users/sandeep/Documents/nsarray1/nsarray1_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-cdykplensrxdghbrfngenxwlwzqt/nsarray1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-ezjgbmisdzgqpicniuyxchjjnuhr/nsarray1_Prefix.pch.gch nsarray1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344424669.845183
+e344424672.779684
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-ezjgbmisdzgqpicniuyxchjjnuhr/nsarray1_Prefix.pch.gch
+xnsarray1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile nsarray1_Prefix.pch344424669#344424672#0(0"0(0#0#55"/Users/sandeep/Desktop/obj/nsarray1/nsarray1_Prefix.pch8605468992#1345"    cd /Users/sandeep/Desktop/obj/nsarray1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap -F/Users/sandeep/Desktop/obj/nsarray1/build/Debug -I/Users/sandeep/Desktop/obj/nsarray1/build/Debug/include -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/nsarray1/build/nsarray1.build/Debug/nsarray1.build/DerivedSources -c /Users/sandeep/Desktop/obj/nsarray1/nsarray1_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-ezjgbmisdzgqpicniuyxchjjnuhr/nsarray1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch.gch nsarray1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s352030751.421623
+e352030763.236136
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch.gch
+xnsarray1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile nsarray1_Prefix.pch352030751#352030763#0(0"0(0#0#81"/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1_Prefix.pch5791402043217441792#1625"    cd "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/nsarray1-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/build/nsarray1.build/Debug/nsarray1.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/nsobject classes in mac app/nsarray1_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/nsarray1_Prefix-farhtbcidimkgecbcfmozllyrnjs/nsarray1_Prefix.pch.gch0#
+

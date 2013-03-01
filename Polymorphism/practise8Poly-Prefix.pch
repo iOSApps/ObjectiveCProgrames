@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'practise8Poly' target in the 'practise8Poly' project
+//
+
+#ifdef __OBJC__
+#endif

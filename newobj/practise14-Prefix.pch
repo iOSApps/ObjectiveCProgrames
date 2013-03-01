@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'practise14' target in the 'practise14' project
+//
+
+#ifdef __OBJC__
+#endif

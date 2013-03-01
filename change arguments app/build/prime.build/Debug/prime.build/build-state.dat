@@ -1,0 +1,289 @@
+Tprime
+v7
+r3
+t349853316.439248
+cCheck dependencies
+cProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-fznxxagxwsbwzxfiilhkaomzegaj/prime_Prefix.pch.gch prime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004C23AA050000000000000EDE
+t1277405701
+s3806
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/sandeep/Desktop/obj/prime/build/Debug/prime
+t1322732580
+s10488
+
+N/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o
+t1322732580
+s8524
+
+N/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.LinkFileList
+c000000004ED74C2000000000000000C4
+t1322732576
+s196
+
+N/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o
+t1322732580
+s7496
+
+N/Users/sandeep/Desktop/obj/prime/pri.h
+c000000004D74BEBB0000000000000116
+t1299496635
+s278
+i<Foundation/NSObject.h>
+
+N/Users/sandeep/Desktop/obj/prime/pri.m
+c000000004D74BEDA000000000000011B
+t1299496666
+s283
+i"pri.h"
+
+N/Users/sandeep/Desktop/obj/prime/prime.m
+c000000004D74BE7B0000000000000143
+t1299496571
+s323
+i<Foundation/Foundation.h>
+i"pri.h"
+
+N/Users/sandeep/Desktop/obj/prime/prime_Prefix.pch
+c000000004D74B2470000000000000098
+t1299493447
+s152
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/Debug/prime
+t1322732580
+s10488
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o
+t1322732580
+s8524
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.LinkFileList
+c000000004F2A1EDC00000000000000F0
+t1328160476
+s240
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o
+t1322732580
+s7496
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/pri.h
+c000000004D74BEBB0000000000000116
+t1299496635
+s278
+i<Foundation/NSObject.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/pri.m
+c000000004D74BEDA000000000000011B
+t1299496666
+s283
+i"pri.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/prime.m
+c000000004D74BE7B0000000000000143
+t1299496571
+s323
+i<Foundation/Foundation.h>
+i"pri.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/change arguments app/prime_Prefix.pch
+c000000004D74B2470000000000000098
+t1299493447
+s152
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Documents/prime/build/Debug/prime
+t1299496667
+s10480
+
+N/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o
+t1299496667
+s8524
+
+N/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.LinkFileList
+c000000004D74B5B200000000000000C0
+t1299494322
+s192
+
+N/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o
+t1299496666
+s7488
+
+N/Users/sandeep/Documents/prime/pri.h
+c000000004D74BEBB0000000000000116
+t1299496635
+s278
+i<Foundation/NSObject.h>
+
+N/Users/sandeep/Documents/prime/pri.m
+c000000004D74BEDA000000000000011B
+t1299496666
+s283
+i"pri.h"
+
+N/Users/sandeep/Documents/prime/prime.m
+c000000004D74BE7B0000000000000143
+t1299496571
+s323
+i<Foundation/Foundation.h>
+i"pri.h"
+
+N/Users/sandeep/Documents/prime/prime_Prefix.pch
+c000000004D74B2470000000000000098
+t1299493447
+s152
+i<Foundation/Foundation.h>
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch.gch
+t1322732579
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch.gch
+t1299494324
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-fznxxagxwsbwzxfiilhkaomzegaj/prime_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349853274#349853276#0(0"0(0#1#0"8615074656#0"0#
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o "/Users/sandeep/Desktop/sandeeprdy/change arguments app/pri.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o /Users/sandeep/Desktop/obj/prime/pri.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344425379.958201
+e344425380.173343
+r1
+xCompileC
+xbuild/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o
+x/Users/sandeep/Desktop/obj/prime/pri.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Desktop/obj/prime/pri.m344425379#344425380#0(0"0(0#0#38"/Users/sandeep/Desktop/obj/prime/pri.m8607806208#1342"    cd /Users/sandeep/Desktop/obj/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Desktop/obj/prime/build/Debug -I/Users/sandeep/Desktop/obj/prime/build/Debug/include -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch -c /Users/sandeep/Desktop/obj/prime/pri.m -o /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o0#
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o /Users/sandeep/Documents/prime/pri.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321189466.640774
+e321189467.247050
+r1
+xCompileC
+xbuild/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o
+x/Users/sandeep/Documents/prime/pri.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/sandeep/Documents/prime/pri.m321189466#321189467#0(0"0(0#0#36"/Users/sandeep/Documents/prime/pri.m8615390784#1320"    cd /Users/sandeep/Documents/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Documents/prime/build/Debug -I/Users/sandeep/Documents/prime/build/Debug/include -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch -c /Users/sandeep/Documents/prime/pri.m -o /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/pri.o0#
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o "/Users/sandeep/Desktop/sandeeprdy/change arguments app/prime.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o /Users/sandeep/Desktop/obj/prime/prime.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344425379.955736
+e344425380.146202
+r1
+xCompileC
+xbuild/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o
+x/Users/sandeep/Desktop/obj/prime/prime.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sandeep/Desktop/obj/prime/prime.m344425379#344425380#0(0"0(0#0#40"/Users/sandeep/Desktop/obj/prime/prime.m8609266208#1346"    cd /Users/sandeep/Desktop/obj/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Desktop/obj/prime/build/Debug -I/Users/sandeep/Desktop/obj/prime/build/Debug/include -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch -c /Users/sandeep/Desktop/obj/prime/prime.m -o /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o0#
+
+CCompileC build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o /Users/sandeep/Documents/prime/prime.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321189466.635657
+e321189467.122867
+r1
+xCompileC
+xbuild/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o
+x/Users/sandeep/Documents/prime/prime.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/sandeep/Documents/prime/prime.m321189466#321189467#0(0"0(0#0#38"/Users/sandeep/Documents/prime/prime.m8615446208#1324"    cd /Users/sandeep/Documents/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Documents/prime/build/Debug -I/Users/sandeep/Documents/prime/build/Debug/include -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources -include /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch -c /Users/sandeep/Documents/prime/prime.m -o /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.o0#
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/Debug/prime" normal x86_64
+r0
+
+CLd /Users/sandeep/Desktop/obj/prime/build/Debug/prime normal x86_64
+s344425380.173434
+e344425380.206180
+r1
+xLd
+x/Users/sandeep/Desktop/obj/prime/build/Debug/prime
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/sandeep/Desktop/obj/prime/build/Debug/prime344425380#344425380#0(0"0(0#0#0"8615245696#482"    cd /Users/sandeep/Desktop/obj/prime    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Desktop/obj/prime/build/Debug -F/Users/sandeep/Desktop/obj/prime/build/Debug -filelist /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Desktop/obj/prime/build/Debug/prime0#
+
+CLd /Users/sandeep/Documents/prime/build/Debug/prime normal x86_64
+s321189467.247137
+e321189467.267152
+r1
+xLd
+x/Users/sandeep/Documents/prime/build/Debug/prime
+xnormal
+xx86_64
+lSLF07#2@53"Link /Users/sandeep/Documents/prime/build/Debug/prime321189467#321189467#0(0"0(0#0#0"8615514784#472"    cd /Users/sandeep/Documents/prime    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/sandeep/Documents/prime/build/Debug -F/Users/sandeep/Documents/prime/build/Debug -filelist /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/Objects-normal/x86_64/prime.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/sandeep/Documents/prime/build/Debug/prime0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch.gch prime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344425376.371418
+e344425379.955607
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch.gch
+xprime_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile prime_Prefix.pch344425376#344425379#0(0"0(0#0#49"/Users/sandeep/Desktop/obj/prime/prime_Prefix.pch8615257216#1258"    cd /Users/sandeep/Desktop/obj/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Desktop/obj/prime/build/Debug -I/Users/sandeep/Desktop/obj/prime/build/Debug/include -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Desktop/obj/prime/build/prime.build/Debug/prime.build/DerivedSources -c /Users/sandeep/Desktop/obj/prime/prime_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-djwriqpwrnifyfajbqjuzfvrxifp/prime_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch.gch prime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321187122.071203
+e321187124.726589
+r1
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch.gch
+xprime_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile prime_Prefix.pch321187122#321187124#0(0"0(0#0#47"/Users/sandeep/Documents/prime/prime_Prefix.pch7378429254039858176#1238"    cd /Users/sandeep/Documents/prime    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-generated-files.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap -iquote /Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/prime-project-headers.hmap -F/Users/sandeep/Documents/prime/build/Debug -I/Users/sandeep/Documents/prime/build/Debug/include -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources/x86_64 -I/Users/sandeep/Documents/prime/build/prime.build/Debug/prime.build/DerivedSources -c /Users/sandeep/Documents/prime/prime_Prefix.pch -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-eftwazqzxwsdrsgvnttjxdmxgpmb/prime_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-fznxxagxwsbwzxfiilhkaomzegaj/prime_Prefix.pch.gch prime_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349853276.253332
+e349853316.439214
+r0
+xProcessPCH
+x/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-fznxxagxwsbwzxfiilhkaomzegaj/prime_Prefix.pch.gch
+xprime_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile prime_Prefix.pch349853276#349853316#0(0"0(0#0#71"/Users/sandeep/Desktop/sandeeprdy/change arguments app/prime_Prefix.pch8598548768#1498"    cd "/Users/sandeep/Desktop/sandeeprdy/change arguments app"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/prime-generated-files.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/prime-own-target-headers.hmap" "-I/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/prime-all-target-headers.hmap" -iquote "/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/prime-project-headers.hmap" "-F/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/Debug" "-I/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/Debug/include" "-I/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/DerivedSources/x86_64" "-I/Users/sandeep/Desktop/sandeeprdy/change arguments app/build/prime.build/Debug/prime.build/DerivedSources" -c "/Users/sandeep/Desktop/sandeeprdy/change arguments app/prime_Prefix.pch" -o /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/prime_Prefix-fznxxagxwsbwzxfiilhkaomzegaj/prime_Prefix.pch.gch2#
+

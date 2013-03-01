@@ -1,0 +1,281 @@
+Tpractise10protocol
+v7
+r0
+t349079912.985953
+cCheck dependencies
+cProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch practise10protocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o /Users/jyothsna/Desktop/practise10protocol/class1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o /Users/jyothsna/Desktop/practise10protocol/class2.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol
+t1327387112
+s11256
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o
+t1327299221
+s8068
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o
+t1327299257
+s8092
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.LinkFileList
+c000000004F1CF9D300000000000001A4
+t1327299027
+s420
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o
+t1327387112
+s7668
+
+N/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/pro.o
+t2
+s0
+
+N/Users/jyothsna/Desktop/practise10protocol/class.h
+c000000004F1CF6E000000000000000D8
+t1327298272
+s216
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/class.m
+c000000004F1CF6E000000000000000BD
+t1327298272
+s189
+i"class.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class1.h
+c000000004F1CFA62000000000000010A
+t1327299170
+s266
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class1.m
+c000000004F1CFA550000000000000101
+t1327299157
+s257
+i"class1.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class2.h
+c000000004F1CFA70000000000000010F
+t1327299184
+s271
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/class2.m
+c000000004F1CFAB50000000000000105
+t1327299253
+s261
+i"class2.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m
+c000000004F1E519E0000000000000152
+t1327387038
+s338
+i<Foundation/Foundation.h>
+i"class1.h"
+i"class2.h"
+
+N/Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch
+c000000004F1CF51400000000000000B2
+t1327297812
+s178
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/pro.h
+c000000004F1CF7F100000000000000D5
+t1327298545
+s213
+i<Foundation/Foundation.h>
+
+N/Users/jyothsna/Desktop/practise10protocol/pro.m
+c000000004F1CF55B00000000000000B7
+t1327297883
+s183
+i"pro.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/Debug/practise10protocol
+t1327387112
+s11256
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o
+t1327299221
+s8068
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o
+t1327299257
+s8092
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.LinkFileList
+c000000004F1CF9D300000000000001A4
+t1327299027
+s420
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o
+t1327387112
+s7668
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class1.h
+c000000004F1CFA62000000000000010A
+t1327299170
+s266
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class1.m
+c000000004F1CFA550000000000000101
+t1327299157
+s257
+i"class1.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class2.h
+c000000004F1CFA70000000000000010F
+t1327299184
+s271
+i<Foundation/Foundation.h>
+i"pro.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class2.m
+c000000004F1CFAB50000000000000105
+t1327299253
+s261
+i"class2.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/practise10protocol.m
+c000000004F1E519E0000000000000152
+t1327387038
+s338
+i<Foundation/Foundation.h>
+i"class1.h"
+i"class2.h"
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/practise10protocol_Prefix.pch
+c000000004F1CF51400000000000000B2
+t1327297812
+s178
+i<Foundation/Foundation.h>
+
+N/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/pro.h
+c000000004F1CF7F100000000000000D5
+t1327298545
+s213
+i<Foundation/Foundation.h>
+
+N/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch
+t1327299037
+s41429776
+
+N/var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/practise10protocol_Prefix-bksilxotbjpiarhcmtbedxylnkob/practise10protocol_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349079911#349079912#0(0"0(0#1#0"8618682144#0"0#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class.o /Users/jyothsna/Desktop/practise10protocol/class.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o "/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class1.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o /Users/jyothsna/Desktop/practise10protocol/class1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348992021.494634
+e348992022.330445
+r1
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o
+x/Users/jyothsna/Desktop/practise10protocol/class1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jyothsna/Desktop/practise10protocol/class1.m348992021#348992022#0(0"0(0#0#51"/Users/jyothsna/Desktop/practise10protocol/class1.m8609632672#1718"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/class1.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class1.o0#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o "/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/class2.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o /Users/jyothsna/Desktop/practise10protocol/class2.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348992056.789837
+e348992057.235970
+r1
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o
+x/Users/jyothsna/Desktop/practise10protocol/class2.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jyothsna/Desktop/practise10protocol/class2.m348992056#348992057#0(0"0(0#0#51"/Users/jyothsna/Desktop/practise10protocol/class2.m8615823136#1718"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/class2.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/class2.o0#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o "/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/practise10protocol.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349079912.047176
+e349079912.542751
+r1
+xCompileC
+xbuild/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o
+x/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m349079912#349079912#0(0"0(0#0#63"/Users/jyothsna/Desktop/practise10protocol/practise10protocol.m8619905248#1742"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -include /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch -c /Users/jyothsna/Desktop/practise10protocol/practise10protocol.m -o /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.o0#
+
+CCompileC build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/pro.o /Users/jyothsna/Desktop/practise10protocol/pro.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/sandeep/Desktop/sandeeprdy/objectivec programes/protocol/build/Debug/practise10protocol" normal x86_64
+r0
+
+CLd /Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol normal x86_64
+s349079912.542844
+e349079912.985903
+r1
+xLd
+x/Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol
+xnormal
+xx86_64
+lSLF07#2@78"Link /Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol349079912#349079912#0(0"0(0#0#0"8619622752#584"    cd /Users/jyothsna/Desktop/practise10protocol    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jyothsna/Desktop/practise10protocol/build/Debug -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -filelist /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/Objects-normal/x86_64/practise10protocol.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/jyothsna/Desktop/practise10protocol/build/Debug/practise10protocol0#
+
+CProcessPCH /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch practise10protocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348991827.610616
+e348991837.940879
+r1
+xProcessPCH
+x/var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch
+xpractise10protocol_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile practise10protocol_Prefix.pch348991827#348991838#0(0"0(0#0#72"/Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch3472668334044242944#1605"    cd /Users/jyothsna/Desktop/practise10protocol    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-generated-files.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-own-target-headers.hmap -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-all-target-headers.hmap -iquote /Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/practise10protocol-project-headers.hmap -F/Users/jyothsna/Desktop/practise10protocol/build/Debug -I/Users/jyothsna/Desktop/practise10protocol/build/Debug/include -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources/x86_64 -I/Users/jyothsna/Desktop/practise10protocol/build/practise10protocol.build/Debug/practise10protocol.build/DerivedSources -c /Users/jyothsna/Desktop/practise10protocol/practise10protocol_Prefix.pch -o /var/folders/72/72f4+t0kFumxnxBc62atdU+++cI/-Caches-/com.apple.Xcode.645/SharedPrecompiledHeaders/practise10protocol_Prefix-benggeybkekpbzfpfdguhazomtxk/practise10protocol_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/97/97Zjlek+GMm71NQhppD39k+++VI/-Caches-/com.apple.Xcode.533/SharedPrecompiledHeaders/practise10protocol_Prefix-bksilxotbjpiarhcmtbedxylnkob/practise10protocol_Prefix.pch.gch practise10protocol_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
